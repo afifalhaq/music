@@ -1,16 +1,20 @@
 {
-  "Ads": [
+  "ADS": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads": "",
+
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
       "native_ads_admob": "ca-app-pub-3940256099942544/2247696110",
+
       "backup_ads_banner": "",
       "backup_ads_intertitial": "",
+
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
       "interstitial_counter": "3",
+
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -20,266 +24,8 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "2NE1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2NE1_2009_MAMA.jpg/1200px-2NE1_2009_MAMA.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "aespa",
-      "image": "https://tdkp.b-cdn.net/wp-content/uploads/2020/11/aespa-Raih-Rekor-Mengesankan-Dengan-View-Count-24-Jam-Untuk-768x512.jpeg"
-    },
-    {
-      "id": 3,
-      "name_category": "After School",
-      "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/4b/Diva_cd_dvd_a.JPG/250px-Diva_cd_dvd_a.JPG"
-    },
-    {
-      "id": 4,
-      "name_category": "Apink",
-      "image": "https://i.pinimg.com/736x/32/43/32/324332c4b052b3cebe655d5052bca994--apink-naeun-apink-kpop.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Astro",
-      "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1"
-    },
-    {
-      "id": 6,
-      "name_category": "ATEEZ",
-      "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg"
-    },
-    {
-      "id": 7,
-      "name_category": "B1A4",
-      "image": "http://3.bp.blogspot.com/-QELQUqldJGw/TqiFDoB-rOI/AAAAAAAAA8g/JeFmVxKS5ls/s1600/B1A4.jpg"
-    },
-    {
-      "id": 8,
-      "name_category": "BIGBANG",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg"
-    },
-    {
-      "id": 9,
-      "name_category": "BLACKPINK",
-      "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg"
-    },
-    {
-      "id": 10,
-      "name_category": "Brave Girl",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg"
-    },
-    {
-      "id": 11,
-      "name_category": "BTS",
-      "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg"
-    },
-    {
-      "id": 12,
-      "name_category": "Cravity",
-      "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg"
-    },
-    {
-      "id": 13,
-      "name_category": "DAY6",
-      "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg"
-    },
-    {
-      "id": 14,
-      "name_category": "Dreamcatcher",
-      "image": "https://i.pinimg.com/originals/3c/64/1c/3c641c7f719a700fd6ef29ed969c81b1.jpg"
-    },
-    {
-      "id": 15,
-      "name_category": "ENHYPEN",
-      "image": "https://www.korebu.com/wp-content/uploads/2020/10/enhypen-3-1-850x638.jpg"
-    },
-    {
-      "id": 16,
-      "name_category": "EVERGLOW",
-      "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg"
-    },
-    {
-      "id": 17,
-      "name_category": "EXO",
-      "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg"
-    },
-    {
-      "id": 18,
-      "name_category": "G-idle",
-      "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg"
-    },
-    {
-      "id": 19,
-      "name_category": "GFriend",
-      "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg"
-    },
-    {
-      "id": 20,
-      "name_category": "GOT7",
-      "image": "https://pbs.twimg.com/profile_images/957032046836240384/NneCvaHk.jpg"
-    },
-    {
-      "id": 21,
-      "name_category": "iKon",
-      "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg"
-    },
-    {
-      "id": 22,
-      "name_category": "ITZY",
-      "image": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
-    },
-    {
-      "id": 23,
-      "name_category": "IU",
-      "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
-    },
-    {
-      "id": 24,
-      "name_category": "IZ*ONE",
-      "image": "https://i.redd.it/obceohfe3jh21.jpg"
-    },
-    {
-      "id": 25,
-      "name_category": "Mamamoo",
-      "image": "https://www.hellokpop.com/wp-content/uploads/2016/08/20160824_mamamoo.jpg"
-    },
-    {
-      "id": 26,
-      "name_category": "MCND",
-      "image": "https://i0.wp.com/kstationtv.com/wp-content/uploads/2019/12/MCND-2.jpg?fit=798%2C798&ssl=1"
-    },
-    {
-      "id": 27,
-      "name_category": "MOMOLAND",
-      "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1"
-    },
-    {
-      "id": 28,
-      "name_category": "MONSTA X",
-      "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg"
-    },
-    {
-      "id": 29,
-      "name_category": "NCT",
-      "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
-    },
-    {
-      "id": 30,
-      "name_category": "NiziU",
-      "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg"
-    },
-    {
-      "id": 31,
-      "name_category": "NU'EST",
-      "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
-    },
-    {
-      "id": 32,
-      "name_category": "Oh My Girl",
-      "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg"
-    },
-    {
-      "id": 33,
-      "name_category": "Red Velvet",
-      "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg"
-    },
-    {
-      "id": 34,
-      "name_category": "SECRET NUMBER",
-      "image": "https://i.pinimg.com/736x/a2/3a/b3/a23ab322b69258d9708b7d7f6d85a953.jpg"
-    },
-    {
-      "id": 35,
-      "name_category": "SEVENTEEN",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg"
-    },
-    {
-      "id": 36,
-      "name_category": "SF9",
-      "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg"
-    },
-    {
-      "id": 37,
-      "name_category": "SHINee",
-      "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg"
-    },
-    {
-      "id": 38,
-      "name_category": "STAYC",
-      "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg"
-    },
-    {
-      "id": 39,
-      "name_category": "Stray Kids",
-      "image": "https://i.pinimg.com/736x/29/98/ac/2998acb7639d44a2fd458507509fcccd.jpg"
-    },
-    {
-      "id": 40,
-      "name_category": "Super Junior",
-      "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg"
-    },
-    {
-      "id": 41,
-      "name_category": "THE BOYZ",
-      "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg"
-    },
-    {
-      "id": 42,
-      "name_category": "TREASURE",
-      "image": "https://koreajoongangdaily.joins.com/data/photo/2020/09/23/e7b642d8-2d5a-46b1-b760-982d6b05785b.jpg"
-    },
-    {
-      "id": 43,
-      "name_category": "TWICE",
-      "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg"
-    },
-    {
-      "id": 44,
-      "name_category": "TXT",
-      "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg"
-    },
-    {
-      "id": 45,
-      "name_category": "Weeekly",
-      "image": "https://todaykpop.com/wp-content/uploads/2020/09/Weeekly-Mengonfirmasi-Rencana-Untuk-Comeback-Pertama-Kali.jpeg"
-    },
-    {
-      "id": 46,
-      "name_category": "VICTON",
-      "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg"
-    }
-  ],
-  "Ost": [
-    {
-      "id": 1,
-      "name_category": "Boys Over Flower",
-      "image": "https://asianwiki.com/images/0/02/BoysOverFlowers-p2.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Desacendants of The Sun",
-      "image": "https://upload.wikimedia.org/wikipedia/id/6/6e/DescendantsoftheSun.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Goblin",
-      "image": "https://asianwiki.com/images/b/b2/Goblin-p04.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Young Lady and Gentleman",
-      "image": "https://asianwiki.com/images/9/9c/Young_Lady_and_Gentleman-p1.jpg"
-    },
-    {
-      "id": 5,
-      "name_category": "Hotel Del Luna",
-      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg"
-    }
-  ],
-  "Data":[
+
+  "DATA": [
   {
     "id": 1,
     "album": "",

@@ -234,6 +234,96 @@
   
   "DATA": [
   {
+    "id": 1189,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "3:05",
+    "image": "https://geo-media.beatsource.com/image_size/1400x1400/1/a/0/1a09b575-4896-46ae-b4fa-ad17d3f5378b.jpg",
+    "title": "Ready For Love",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+  },
+  {
+    "id": 1188,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:03",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "TICK TOCK",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20TICK%20TOCK.mp3"
+  },
+  {
+    "id": 1187,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:08",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Celebrate",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Celebrate.mp3"
+  },
+  {
+    "id": 1186,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:04",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Voices of Delight",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Voices%20of%20Delight.mp3"
+  },
+  {
+    "id": 1185,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:33",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Flow Like Waves",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Flow%20Like%20Waves.mp3"
+  },
+  {
+    "id": 1184,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:02",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "That's All I'm Saying",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20That%27s%20All%20I%27m%20Saying.mp3"
+  },
+  {
+    "id": 1183,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:31",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Bitter Sweet",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Bitter%20Sweet.mp3"
+  },
+  {
+    "id": 1182,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:12",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Sandcastle",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Sandcastle.mp3"
+  },
+  {
+    "id": 1181,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:20",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Just Be Yourself",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Just%20Be%20Yourself.mp3"
+  },
+  {
+    "id": 1180,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "4:20",
+    "image": "https://pm1.narvii.com/6572/64db69075c1419e33b3c0a662f5de6da225a0517_hq.jpg",
+    "title": "Doughnut",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Celebrate/TWICE%20-%20Doughnut.mp3"
+  },
+  {
     "id": 1179,
     "album": "",
     "artist": "J-Hope",
@@ -1380,7 +1470,7 @@
     "id": 127,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Upper Side Dreamin'",
     "url": "https://ia601508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Upper%20Side%20Dreamin’.mp3"
@@ -1389,7 +1479,7 @@
     "id": 128,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Tamed-Dashed",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Tamed-Dashed.mp3"
@@ -1398,7 +1488,7 @@
     "id": 129,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 182,
+    "duration": "3:02",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Polaroid Love",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Polaroid%20Love.mp3"
@@ -1407,7 +1497,7 @@
     "id": 130,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 170,
+    "duration": "2:50",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Just A Little Bit",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Just%20A%20Little%20Bit.mp3"
@@ -1416,7 +1506,7 @@
     "id": 131,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 111,
+    "duration": "1:51",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "HEY TAYO",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Hey%20Tayo.mp3"
@@ -1425,7 +1515,7 @@
     "id": 132,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Go Big Or Go Home",
     "url": "https://ia601508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Go%20Big%20or%20Go%20Home.mp3"
@@ -1434,7 +1524,7 @@
     "id": 133,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Forget Me Not",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Forget%20Me%20Not.mp3"
@@ -1443,7 +1533,7 @@
     "id": 134,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Blockbuster",
     "url": "https://ia601508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Blockbuster.mp3"
@@ -1452,7 +1542,7 @@
     "id": 135,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 170,
+    "duration": "2:50",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Blessed-Cursed",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Blessed-Cursed.mp3"
@@ -1461,7 +1551,7 @@
     "id": 136,
     "album": "",
     "artist": "ENHYPEN",
-    "duration": 167,
+    "duration": "2:47",
     "image": "https://image.kpopmap.com/2020/11/enhypen-debut-cover.jpg",
     "title": "Attention, Please!",
     "url": "https://ia801508.us.archive.org/30/items/enhy_n/ENHYPEN%20-%20Attention%2C%20Please%21.mp3"
@@ -1470,7 +1560,7 @@
     "id": 137,
     "album": "",
     "artist": "DAY6",
-    "duration": 175,
+    "duration": "2:55",
     "image": "https://ocweekly.com/wp-content/uploads/2018/11/day6.jpg",
     "title": "Shoot Me",
     "url": "https://ia601505.us.archive.org/31/items/day-6/Day6%20-%20Shoot%20Me.mp3"
@@ -1479,7 +1569,7 @@
     "id": 138,
     "album": "",
     "artist": "DAY6",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://ocweekly.com/wp-content/uploads/2018/11/day6.jpg",
     "title": "Love Me Or Leave Me",
     "url": "https://ia601505.us.archive.org/31/items/day-6/Day6%20-%20Love%20Me%20Or%20Leave%20Me.mp3"
@@ -1488,7 +1578,7 @@
     "id": 139,
     "album": "",
     "artist": "Cravity",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "GAS PEDAL",
     "url": "https://ia902908.us.archive.org/14/items/cravity/Cravity%20-%20GAS%20PEDAL.mp3"
@@ -1497,7 +1587,7 @@
     "id": 140,
     "album": "",
     "artist": "BTS",
-    "duration": 249,
+    "duration": "4:09",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Dionysus",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Dionysus.mp3"
@@ -1506,7 +1596,7 @@
     "id": 141,
     "album": "",
     "artist": "BTS",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Jamais Vu",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Jamais%20Vu.mp3"
@@ -1515,7 +1605,7 @@
     "id": 142,
     "album": "",
     "artist": "BTS",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "HOME",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/HOME.mp3"
@@ -1524,7 +1614,7 @@
     "id": 143,
     "album": "",
     "artist": "BTS",
-    "duration": 225,
+    "duration": "3:45",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Make It Right",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Make%20It%20Right.mp3"
@@ -1533,7 +1623,7 @@
     "id": 144,
     "album": "",
     "artist": "BTS",
-    "duration": 224,
+    "duration": "3:44",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Mikrokosmos (소우주)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/소우주%20%28Mikrokosmos%29.mp3"
@@ -1542,7 +1632,7 @@
     "id": 145,
     "album": "",
     "artist": "BTS",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Boy With Luv (작은 것들을 위한 시)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/작은%20것들을%20위한%20시%20%28Boy%20with%20Luv%29%20feat.%20Halsey.mp3"
@@ -1551,7 +1641,7 @@
     "id": 146,
     "album": "",
     "artist": "BTS",
-    "duration": 171,
+    "duration": "2:51",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Intro: Persona",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Intro%20_%20Persona.mp3"
@@ -1560,7 +1650,7 @@
     "id": 147,
     "album": "",
     "artist": "BTS",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Your Eyes Tell",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Your%20eyes%20tell.mp3"
@@ -1569,7 +1659,7 @@
     "id": 148,
     "album": "",
     "artist": "BTS",
-    "duration": 292,
+    "duration": "4:52",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Lights",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Lights.mp3"
@@ -1578,7 +1668,7 @@
     "id": 149,
     "album": "",
     "artist": "BTS",
-    "duration": 248,
+    "duration": "4:08",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "ON (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/ON%20%28Japanese%20Version%29.mp3"
@@ -1587,7 +1677,7 @@
     "id": 150,
     "album": "",
     "artist": "BTS",
-    "duration": 198,
+    "duration": "3:18",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Black Swan (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Black%20Swan%20%28Japanese%20Version%29.mp3"
@@ -1596,7 +1686,7 @@
     "id": 151,
     "album": "",
     "artist": "BTS",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Fake Love (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/FAKE%20LOVE%20%28Japanese%20Version%29.mp3"
@@ -1605,7 +1695,7 @@
     "id": 152,
     "album": "",
     "artist": "BTS",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Airplane Pt. 2 (Japanese Version)",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Airplane%20pt.2%20%28Japanese%20Version%29.mp3"
@@ -1614,7 +1704,7 @@
     "id": 153,
     "album": "",
     "artist": "BTS",
-    "duration": 223,
+    "duration": "3:43",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "IDOL (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/IDOL%20%28Japanese%20Version%29.mp3"
@@ -1623,7 +1713,7 @@
     "id": 154,
     "album": "",
     "artist": "BTS",
-    "duration": 248,
+    "duration": "4:08",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Dionysus (Japanese Version)",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Dionysus%20%28Japanese%20Version%29.mp3"
@@ -1632,7 +1722,7 @@
     "id": 155,
     "album": "",
     "artist": "BTS",
-    "duration": 225,
+    "duration": "3:45",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Make It Right (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Make%20It%20Right%20%28Japanese%20Version%29.mp3"
@@ -1641,7 +1731,7 @@
     "id": 156,
     "album": "",
     "artist": "BTS",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Boy With Luv (Japanese Version)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Boy%20With%20Luv%20%28Japanese%20Version%29.mp3"
@@ -1650,7 +1740,7 @@
     "id": 157,
     "album": "",
     "artist": "BTS",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "Stay Gold",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Stay%20Gold.mp3"
@@ -1659,7 +1749,7 @@
     "id": 158,
     "album": "",
     "artist": "BTS",
-    "duration": 84,
+    "duration": "1:24",
     "image": "https://wallpapercave.com/wp/wp3762067.jpg",
     "title": "INTRO : Calling",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/INTRO%20_%20Calling.mp3"
@@ -1668,7 +1758,7 @@
     "id": 159,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "WIN",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20WIN.mp3"
@@ -1677,7 +1767,7 @@
     "id": 160,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Utopia",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Utopia.mp3"
@@ -1686,7 +1776,7 @@
     "id": 161,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Twilight",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Twilight.mp3"
@@ -1695,7 +1785,7 @@
     "id": 162,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Turbulence",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Turbulence.mp3"
@@ -1704,7 +1794,7 @@
     "id": 163,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Stay",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Stay.mp3"
@@ -1713,7 +1803,7 @@
     "id": 164,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Say My Name",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Say%20My%20Name.mp3"
@@ -1722,7 +1812,7 @@
     "id": 165,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "MIST",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20MIST.mp3"
@@ -1731,7 +1821,7 @@
     "id": 166,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Eternal Sunshine",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Eternal%20Sunshine.mp3"
@@ -1740,7 +1830,7 @@
     "id": 167,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Deja Vu",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%20-%20Deja%20Vu.mp3"
@@ -1749,7 +1839,7 @@
     "id": 168,
     "album": "",
     "artist": "Astro",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=3",
     "title": "ONE",
     "url": "https://ia801503.us.archive.org/6/items/as-tro/ASTRO%20-%20ONE.mp3"
@@ -1758,7 +1848,7 @@
     "id": 169,
     "album": "",
     "artist": "Astro",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=2",
     "title": "MY ZONE",
     "url": "https://ia601503.us.archive.org/6/items/as-tro/ASTRO%20-%20MY%20ZONE.mp3"
@@ -1767,7 +1857,7 @@
     "id": 170,
     "album": "",
     "artist": "Astro",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://i0.wp.com/hallyumusic.com/wp-content/uploads/2020/05/ASTRO-COVER.png?fit=600%2C600&ssl=1",
     "title": "My Style",
     "url": "https://ia801503.us.archive.org/6/items/as-tro/ASTRO%20-%20My%20Style.mp3"
@@ -1776,7 +1866,7 @@
     "id": 171,
     "album": "",
     "artist": "aespa",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "Dream Come True",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20-%20Dreams%20Come%20True.mp3"
@@ -1785,7 +1875,7 @@
     "id": 172,
     "album": "",
     "artist": "aespa",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "Lucid Dream",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20Lucid%20Dream.mp3"
@@ -1794,7 +1884,7 @@
     "id": 173,
     "album": "",
     "artist": "aespa",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "ICONIC",
     "url": "https://ia804504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20ICONIC.mp3"
@@ -1803,7 +1893,7 @@
     "id": 174,
     "album": "",
     "artist": "aespa",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "YEPPI YEPPI",
     "url": "https://ia804504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20YEPPI%20YEPPI.mp3"
@@ -1812,7 +1902,7 @@
     "id": 175,
     "album": "",
     "artist": "aespa",
-    "duration": 147,
+    "duration": "2:27",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "aenergy",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20aenergy.mp3"
@@ -1821,7 +1911,7 @@
     "id": 176,
     "album": "",
     "artist": "aespa",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "I'll Make You Cry",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20I%27ll%20Make%20You%20Cry.mp3"
@@ -1830,7 +1920,7 @@
     "id": 177,
     "album": "",
     "artist": "aespa",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://www.allkpop.com/upload/2021/05/content/051129/web_data/allkpop_1620229007_untitled-1.jpg",
     "title": "Savage",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20%28에스파%29%20-%20Savage.mp3"
@@ -1839,7 +1929,7 @@
     "id": 178,
     "album": "",
     "artist": "AB6IX",
-    "duration": 212,
+    "duration": "3:32",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Fallin' (Adrenaline) (AB6IX Remix)",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20ft%20Why%20Don%27t%20We%20-%20Fallin%27%20%28Adrenaline%29%20%28AB6IX%20Remix%29.mp3"
@@ -1848,7 +1938,7 @@
     "id": 179,
     "album": "",
     "artist": "AB6IX",
-    "duration": 190,
+    "duration": "3:10",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "The Answer",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20THE%20ANSWER.mp3"
@@ -1857,7 +1947,7 @@
     "id": 180,
     "album": "",
     "artist": "AB6IX",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Stay Young",
     "url": "https://ia601508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20STAY%20YOUNG.mp3"
@@ -1866,7 +1956,7 @@
     "id": 181,
     "album": "",
     "artist": "AB6IX",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Salute",
     "url": "https://ia601508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20SALUTE.mp3"
@@ -1875,7 +1965,7 @@
     "id": 182,
     "album": "",
     "artist": "AB6IX",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Nothing Without You",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20NOTHING%20WITHOUT%20YOU.mp3"
@@ -1884,7 +1974,7 @@
     "id": 183,
     "album": "",
     "artist": "AB6IX",
-    "duration": 273,
+    "duration": "4:33",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Deep Inside",
     "url": "https://ia601508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20DEEP%20INSIDE.mp3"
@@ -1893,7 +1983,7 @@
     "id": 184,
     "album": "",
     "artist": "AB6IX",
-    "duration": 219,
+    "duration": "3:39",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Close",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20CLOSE%20%28감아%29.mp3"
@@ -1902,7 +1992,7 @@
     "id": 185,
     "album": "",
     "artist": "AB6IX",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg",
     "title": "Blind For Love",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20BLIND%20FOR%20LOVE.mp3"
@@ -1911,7 +2001,7 @@
     "id": 186,
     "album": "",
     "artist": "AB6IX",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://i0.wp.com/thestandom.com/wp-content/uploads/2019/10/AB6IXENSE.jpg?fit=1440%2C1080&ssl=1",
     "title": "Be There",
     "url": "https://ia801508.us.archive.org/17/items/ab-6-ix/AB6IX%20-%20Be%20There%20%28기대%29.mp3"
@@ -1920,7 +2010,7 @@
     "id": 187,
     "album": "",
     "artist": "2NE1",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2NE1_2009_MAMA.jpg/1200px-2NE1_2009_MAMA.jpg",
     "title": "Lonely",
     "url": "https://ia601400.us.archive.org/12/items/2ne-1/2NE1%20-%20Lonely.mp3"
@@ -1929,7 +2019,7 @@
     "id": 188,
     "album": "",
     "artist": "2NE1",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2NE1_2009_MAMA.jpg/1200px-2NE1_2009_MAMA.jpg",
     "title": "Come Back Home",
     "url": "https://ia601400.us.archive.org/12/items/2ne-1/2NE1%20-%20Come%20Back%20Home.mp3"
@@ -1947,7 +2037,7 @@
     "id": 190,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://tdkp.b-cdn.net/wp-content/uploads/2021/01/Lisa-BLACKPINK-Akan-Kembali-Sebagai-Mentor-di-Musim-Baru-Pertunjukan.jpeg",
     "title": "LISA - LALISA",
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/LISA%20-%20LALISA.mp3"
@@ -1956,7 +2046,7 @@
     "id": 191,
     "album": "",
     "artist": "BTS",
-    "duration": 190,
+    "duration": "3:10",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Permission To Dance",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Permission%20To%20Dance.mp3"
@@ -1965,7 +2055,7 @@
     "id": 192,
     "album": "",
     "artist": "IU",
-    "duration": 235,
+    "duration": "3:55",
     "image": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg",
     "title": "Good Day (좋은 날)",
     "url": "https://ia601500.us.archive.org/27/items/iukpop/IU%20%28%EC%95%84%EC%9D%B4%EC%9C%A0%29%20-%20Good%20Day.mp3"
@@ -1974,7 +2064,7 @@
     "id": 193,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
     "title": "Lovesick Girls (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20Lovesick%20Girls%20%28Japan%20Version%29.mp3"
@@ -1983,7 +2073,7 @@
     "id": 194,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
     "title": "Pretty Savage (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20Pretty%20Savage%20%28Japan%20Version%29.mp3"
@@ -1992,7 +2082,7 @@
     "id": 195,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
     "title": "You Never Know (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20You%20Never%20Know%20%28Japan%20Version%29.mp3"
@@ -2001,7 +2091,7 @@
     "id": 196,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://3.bp.blogspot.com/-95m315mJhmw/WZyll3_KPGI/AAAAAAAAW8Y/R0J0zmZm7fEuK12ch3eTesQ2j2ZBC3qNwCLcBGAs/s640/DH1mp33UMAE7Su1.jpg",
     "title": "How You Like That (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20How%20You%20Like%20That%20%28Japan%20Version%29.mp3"
@@ -2010,7 +2100,7 @@
     "id": 197,
     "album": "",
     "artist": "Brave Girl",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg",
     "title": "Rollin' (롤린)",
     "url": "https://ia804506.us.archive.org/30/items/brvgrl/Rollin%27/Brave%20Girl%20-%20Rollin%27%20%28%EB%A1%A4%EB%A6%B0%29.mp3"
@@ -2019,7 +2109,7 @@
     "id": 198,
     "album": "",
     "artist": "Brave Girl",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg",
     "title": "Memory (옛생각)",
     "url": "https://ia904506.us.archive.org/30/items/brvgrl/Rollin%27/Brave%20Girl%20-%20Memory%20%28%EC%98%9B%EC%83%9D%EA%B0%81%29.mp3"
@@ -2028,7 +2118,7 @@
     "id": 199,
     "album": "",
     "artist": "Brave Girl",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg",
     "title": "No Rush (서두르지 마)",
     "url": "https://ia904506.us.archive.org/30/items/brvgrl/Rollin%27/Brave%20Girl%20-%20No%20Rush%20%28%EC%84%9C%EB%91%90%EB%A5%B4%EC%A7%80%20%EB%A7%88%29.mp3"
@@ -2037,7 +2127,7 @@
     "id": 200,
     "album": "",
     "artist": "Brave Girl",
-    "duration": 145,
+    "duration": "2:25",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/브레이브걸스_수능인사.jpg/700px-브레이브걸스_수능인사.jpg",
     "title": "High Heels (하이힐) (Remix)",
     "url": "https://ia804506.us.archive.org/30/items/brvgrl/Rollin%27/Brave%20Girl%20-%20High%20Heels%20%28%ED%95%98%EC%9D%B4%ED%9E%90%29%20%28Remix%29.mp3"

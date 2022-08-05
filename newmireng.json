@@ -6820,7 +6820,7 @@
     "id": 500,
     "album": "",
     "artist": "GFriend",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Eclipse (지금 만나러 갑니다)",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Eclipse.mp3"
@@ -6829,7 +6829,7 @@
     "id": 499,
     "album": "",
     "artist": "GFriend",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Fever (열대야)",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Fever.mp3"
@@ -6838,7 +6838,7 @@
     "id": 498,
     "album": "",
     "artist": "GFriend",
-    "duration": 219,
+    "duration": "3:39",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Flower (Korean Version)",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Flower%20%28Korean%20Version%29.mp3"
@@ -6847,7 +6847,7 @@
     "id": 497,
     "album": "",
     "artist": "GFriend",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Flower",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Flower.mp3"
@@ -6856,7 +6856,7 @@
     "id": 496,
     "album": "",
     "artist": "GFriend",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "From Me",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20From%20Me.mp3"
@@ -6865,7 +6865,7 @@
     "id": 495,
     "album": "",
     "artist": "GFriend",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Here We Are",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Here%20We%20Are.mp3"
@@ -6874,7 +6874,7 @@
     "id": 494,
     "album": "",
     "artist": "GFriend",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Labyrinth",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Labyrinth.mp3"
@@ -6883,7 +6883,7 @@
     "id": 493,
     "album": "",
     "artist": "GFriend",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "MAGO",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20MAGO.mp3"
@@ -6892,7 +6892,7 @@
     "id": 492,
     "album": "",
     "artist": "GFriend",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Time For The Moon Night (밤)",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Time%20For%20The%20Moon%20Night.mp3"
@@ -6901,7 +6901,7 @@
     "id": 491,
     "album": "",
     "artist": "GFriend",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Vacation",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Vacation.mp3"
@@ -6910,7 +6910,7 @@
     "id": 490,
     "album": "",
     "artist": "GFriend",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Sunrise (해야)",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Sunrise.mp3"
@@ -6919,7 +6919,7 @@
     "id": 489,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1",
     "title": "Very Very",
     "url": "http://docs.google.com/uc?xport=download&id=1-7syfbCw3mTOQNBoY2JwYQZYaJXBPzW8"
@@ -6928,7 +6928,7 @@
     "id": 488,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=2",
     "title": "Bingo Game",
     "url": "http://docs.google.com/uc?xport=download&id=16QElcWjXUEuxLo6SBK9hgrKTGKTQPR91"
@@ -6937,7 +6937,7 @@
     "id": 487,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=3",
     "title": "BAAM",
     "url": "http://docs.google.com/uc?xport=download&id=1vB-Cn3vqwlcBSZ1CXXKWpeZKzm34goSt"
@@ -6946,7 +6946,7 @@
     "id": 486,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=4",
     "title": "Pinky Love",
     "url": "http://docs.google.com/uc?xport=download&id=1r7QkMgg3U6ShbKh-Fpy1eGeuXy98JrtH"
@@ -6955,7 +6955,7 @@
     "id": 485,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=5",
     "title": "Only One You (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1FsCigEtmfD7MGaDxbXTgtiUN-CnBseHY"
@@ -6964,7 +6964,7 @@
     "id": 484,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=6",
     "title": "I'm So Hot (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1PZqC1MH8u6kijcNGvWwHOvDE3Jcb1TcU"
@@ -6973,7 +6973,7 @@
     "id": 483,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 182,
+    "duration": "3:02",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=7",
     "title": "Chiri Chiri",
     "url": "http://docs.google.com/uc?xport=download&id=1PqMttuKyY4Cwbwm2m7UzDgm0P4c_vL-7"
@@ -6982,7 +6982,7 @@
     "id": 482,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=8",
     "title": "BBoom BBoom (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1tNWETpwvMrDwWHFX00_rfcMwlaSRS1-E"
@@ -6991,7 +6991,7 @@
     "id": 481,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 193,
+    "duration": "3:13",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=9",
     "title": "Wrap Me In Plastic (feat CHROMANCE)",
     "url": "http://docs.google.com/uc?xport=download&id=1YQDmf7A9Kn_lHon4sEyZUoGtErRZus1k"
@@ -7000,7 +7000,7 @@
     "id": 480,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 235,
+    "duration": "3:53",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=10",
     "title": "Only One You",
     "url": "http://docs.google.com/uc?xport=download&id=1u3GtJ5FnrTy16Tt531BRUoMC1GKiBKNP"
@@ -7009,7 +7009,7 @@
     "id": 479,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=11",
     "title": "Starry Night",
     "url": "http://docs.google.com/uc?xport=download&id=1n3qWonJe0gAW953en5EzQoRF-SLyEN-A"
@@ -7018,7 +7018,7 @@
     "id": 478,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=12",
     "title": "Starry Night (English Version)",
     "url": "http://docs.google.com/uc?xport=download&id=19ge72MvdzzEbw4nm9omDjlx_zeI7tF4j"
@@ -7027,7 +7027,7 @@
     "id": 477,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 188,
+    "duration": "3:08",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=13",
     "title": "Pinky Love (Korean Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1QKpkvO42VdmNo9LKeRxvEXdnFb57K32K"
@@ -7036,7 +7036,7 @@
     "id": 476,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Find You",
     "url": "http://docs.google.com/uc?xport=download&id=1gxq2jVPjf2UG64LL5_NZE4OUZ4DL7uXq"
@@ -7045,7 +7045,7 @@
     "id": 475,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Gasoline (갈증)",
     "url": "http://docs.google.com/uc?xport=download&id=1cjb8RQcDRoAv1qjvQiWseYWmClERVOl2"
@@ -7054,7 +7054,7 @@
     "id": 474,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 177,
+    "duration": "2:57",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Last Carnival",
     "url": "http://docs.google.com/uc?xport=download&id=13Ff2_TSjUQG1lLd0-yv0I3l8ZY1ucJLU"
@@ -7063,7 +7063,7 @@
     "id": 473,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Love Killa",
     "url": "http://docs.google.com/uc?xport=download&id=1AR3m9Dyq7ezbmP466gh9Y9PFfQHf5LSM"
@@ -7072,7 +7072,7 @@
     "id": 472,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Night View",
     "url": "http://docs.google.com/uc?xport=download&id=1iT9QdNolOuLsKLuWAn4QdfKc8DgOx9o_"
@@ -7081,7 +7081,7 @@
     "id": 471,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 182,
+    "duration": "3:02",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Nobody Else",
     "url": "http://docs.google.com/uc?xport=download&id=1T8cipH-_bw1lU6SoTL1Kkj5p90G-NbWY"
@@ -7090,7 +7090,7 @@
     "id": 470,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Sorry I'm Not Sorry",
     "url": "http://docs.google.com/uc?xport=download&id=1GwDfiPK7xWJezy3V0-tT3l2zyWoV32Or"
@@ -7099,7 +7099,7 @@
     "id": 469,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 183,
+    "duration": "3:03",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Stand Together (대동단결)",
     "url": "http://docs.google.com/uc?xport=download&id=1gHFGQRBsZcs0zY10xl32hZRtr0zPJz6m"
@@ -7108,7 +7108,7 @@
     "id": 468,
     "album": "",
     "artist": "NCT",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT U - 90's Love",
     "url": "http://docs.google.com/uc?xport=download&id=1Ua4oYHnMqWTWUz3n8UHW68oISRsiO-UF"
@@ -7117,7 +7117,7 @@
     "id": 467,
     "album": "",
     "artist": "NCT",
-    "duration": 252,
+    "duration": "4:12",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT U - From Home",
     "url": "http://docs.google.com/uc?xport=download&id=1CLXsl31hsrv7Md_0LSnydEqtDTZRLgzj"
@@ -7126,7 +7126,7 @@
     "id": 466,
     "album": "",
     "artist": "NCT",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT U - Make A Wish (Birthday Song)",
     "url": "http://docs.google.com/uc?xport=download&id=17ZWscy2oJOIxPDtNbLFE2yFhJDTg4JRf"
@@ -7135,7 +7135,7 @@
     "id": 465,
     "album": "",
     "artist": "NCT",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT U - My Everything",
     "url": "http://docs.google.com/uc?xport=download&id=1BdY_kN-mN_C4q6_pLg1aLvrhO6VJ6yj-"
@@ -7144,7 +7144,7 @@
     "id": 464,
     "album": "",
     "artist": "NCT",
-    "duration": 174,
+    "duration": "2:54",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT U - Work It",
     "url": "http://docs.google.com/uc?xport=download&id=1Emxj8whwkR6Ge6m8aQEIRrhBP9Ql-AWL"
@@ -7153,7 +7153,7 @@
     "id": 463,
     "album": "",
     "artist": "NCT",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - 119",
     "url": "http://docs.google.com/uc?xport=download&id=1DtCsqf9VjBnxhbCxl4LXdU2cbbelSKq2"
@@ -7162,7 +7162,7 @@
     "id": 462,
     "album": "",
     "artist": "NCT",
-    "duration": 223,
+    "duration": "3:43",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - Best Friend",
     "url": "http://docs.google.com/uc?xport=download&id=1JAhi0IkY0ZnLuGsfi2aWCFBkTZuDNBCI"
@@ -7171,7 +7171,7 @@
     "id": 461,
     "album": "",
     "artist": "NCT",
-    "duration": 198,
+    "duration": "3:18",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - BOOM",
     "url": "http://docs.google.com/uc?xport=download&id=1gnoPFX75N-QGny7LmwznXGKPtGSWKnCK"
@@ -7180,7 +7180,7 @@
     "id": 460,
     "album": "",
     "artist": "NCT",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - Bye My First... (사랑이 좀 어려워)",
     "url": "http://docs.google.com/uc?xport=download&id=1mHv4rc-_bBg2R_wjs9LxoXauL4VYySP0"
@@ -7189,7 +7189,7 @@
     "id": 459,
     "album": "",
     "artist": "NCT",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - Chewing Gum",
     "url": "http://docs.google.com/uc?xport=download&id=1zTtT7njwvVMSXribujaNCrg6HJg84VVD"
@@ -7198,7 +7198,7 @@
     "id": 458,
     "album": "",
     "artist": "NCT",
-    "duration": 224,
+    "duration": "3:44",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT DREAM - Dream Run",
     "url": "http://docs.google.com/uc?xport=download&id=1FHO2FvrjxUF8M-j7z-JJYltc6hDFAuLG"
@@ -7207,7 +7207,7 @@
     "id": 457,
     "album": "",
     "artist": "NU'EST",
-    "duration": 183,
+    "duration": "3:03",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "LOVE ME",
     "url": "http://docs.google.com/uc?xport=download&id=1QVOQNjmw6hSO6r3_2_e1tjMWUU5VhVPp"
@@ -7216,7 +7216,7 @@
     "id": 456,
     "album": "",
     "artist": "NU'EST",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "Back To Me (평행우주)",
     "url": "http://docs.google.com/uc?xport=download&id=1Iwo0ZmQ1gZyRoctnP3fj-kBR1UP8GVo6"
@@ -7225,7 +7225,7 @@
     "id": 455,
     "album": "",
     "artist": "NU'EST",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "Firework",
     "url": "http://docs.google.com/uc?xport=download&id=1wzP5ID2gWKGF-hVAQDjvEmwR6Hcgpd_k"
@@ -7234,7 +7234,7 @@
     "id": 454,
     "album": "",
     "artist": "NU'EST",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "I'm In Trouble",
     "url": "http://docs.google.com/uc?xport=download&id=1TeuzAmJy-8EF7W7k709tXDMJ_POHPMSR"
@@ -7243,7 +7243,7 @@
     "id": 453,
     "album": "",
     "artist": "NU'EST",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "Moon Dance",
     "url": "http://docs.google.com/uc?xport=download&id=10Uir51-hwTF_RnlKiX_RFOFvQ8QN3kbH"
@@ -7252,7 +7252,7 @@
     "id": 452,
     "album": "",
     "artist": "NU'EST",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "Must (꼭)",
     "url": "http://docs.google.com/uc?xport=download&id=1ytlfFEK4JPwEOqU0OulYdgb5ollL-_Io"
@@ -7261,7 +7261,7 @@
     "id": 451,
     "album": "",
     "artist": "NU'EST",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg",
     "title": "Shooting Star (반딧별)",
     "url": "http://docs.google.com/uc?xport=download&id=1T4OQyAMyjvdX34PD9LKjBmWMOFJv0BGb"
@@ -7270,7 +7270,7 @@
     "id": 450,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 188,
+    "duration": "3:08",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "RBB (Really Bad Boy)",
     "url": "http://docs.google.com/uc?xport=download&id=1ahMH2o1f00NThZuiR3jkvFHls2Xa3vZA"
@@ -7279,7 +7279,7 @@
     "id": 449,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "Butterflies",
     "url": "http://docs.google.com/uc?xport=download&id=1oBshkwOb5hQnD9Q_MkTkkpVVZHAk9AUV"
@@ -7288,7 +7288,7 @@
     "id": 448,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "So Good",
     "url": "http://docs.google.com/uc?xport=download&id=1BkcXF8lZC9H-ywcjgN2il2vgfdwvoOvV"
@@ -7297,7 +7297,7 @@
     "id": 447,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "Sassy Me (멋있게)",
     "url": "http://docs.google.com/uc?xport=download&id=1NkN2NCjDsd0lPtfWkiMg4BtlTEM3gjEg"
@@ -7306,7 +7306,7 @@
     "id": 446,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 184,
+    "duration": "3:04",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "Taste",
     "url": "http://docs.google.com/uc?xport=download&id=1S5fC3k_D6QusVhkTRDy_tIVm1cyMDbe8"
@@ -7315,7 +7315,7 @@
     "id": 445,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 188,
+    "duration": "3:08",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "RBB (Really Bad Boy) (English Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1935IO56wFifaC86UEyhIpfGR3Pfg-EAy"
@@ -7324,7 +7324,7 @@
     "id": 444,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "Peek-A-Boo (피카부)",
     "url": "http://docs.google.com/uc?xport=download&id=1ClFKM5OKvYdIKxpQPKhKxnucCSHBzs2b"
@@ -7333,7 +7333,7 @@
     "id": 443,
     "album": "",
     "artist": "Red Velvet",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://watheydo.com/wp-content/uploads/2020/06/3-1842515611-1595395855856.jpg",
     "title": "Power Up",
     "url": "http://docs.google.com/uc?xport=download&id=1AM3CecOc1tVVfmK3BZfW7wm2O-MhYNeC"
@@ -7342,7 +7342,7 @@
     "id": 442,
     "album": "",
     "artist": "BTS",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Stigma",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Stigma.mp3"
@@ -7351,7 +7351,7 @@
     "id": 441,
     "album": "",
     "artist": "BTS",
-    "duration": 274,
+    "duration": "4:34",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Spring Day (봄날)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Spring%20Day%20%28봄날%29.mp3"
@@ -7360,7 +7360,7 @@
     "id": 440,
     "album": "",
     "artist": "BTS",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Reflection",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Reflection.mp3"
@@ -7369,7 +7369,7 @@
     "id": 439,
     "album": "",
     "artist": "BTS",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Not Today",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Not%20Today.mp3"
@@ -7378,7 +7378,7 @@
     "id": 438,
     "album": "",
     "artist": "BTS",
-    "duration": 212,
+    "duration": "3:32",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Mama",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/MAMA.mp3"
@@ -7387,7 +7387,7 @@
     "id": 437,
     "album": "",
     "artist": "BTS",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Lost",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Lost.mp3"
@@ -7396,7 +7396,7 @@
     "id": 436,
     "album": "",
     "artist": "BTS",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Lie",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Lie.mp3"
@@ -7405,7 +7405,7 @@
     "id": 435,
     "album": "",
     "artist": "BTS",
-    "duration": 121,
+    "duration": "2:01",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Intro: Boy Meets Evil",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Intro%20_%20Boy%20Meets%20Evil.mp3"
@@ -7414,7 +7414,7 @@
     "id": 434,
     "album": "",
     "artist": "BTS",
-    "duration": 144,
+    "duration": "2:24",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Interlude: Wings",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Interlude%20_%20Wings.mp3"
@@ -7423,7 +7423,7 @@
     "id": 433,
     "album": "",
     "artist": "BTS",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "First Love",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/First%20Love.mp3"
@@ -7432,7 +7432,7 @@
     "id": 432,
     "album": "",
     "artist": "BTS",
-    "duration": 294,
+    "duration": "4:54",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "BTS Cypher 4",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/BTS%20Cypher%204.mp3"
@@ -7441,7 +7441,7 @@
     "id": 431,
     "album": "",
     "artist": "BTS",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Blood Sweat & Tears (피 땀 눈물)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Blood%20Sweat%20%26%20Tears.mp3"
@@ -7450,7 +7450,7 @@
     "id": 430,
     "album": "",
     "artist": "BTS",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Begin",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Begin.mp3"
@@ -7459,7 +7459,7 @@
     "id": 429,
     "album": "",
     "artist": "BTS",
-    "duration": 225,
+    "duration": "3:45",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Awake",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Awake.mp3"
@@ -7468,7 +7468,7 @@
     "id": 428,
     "album": "",
     "artist": "BTS",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Am I Wrong",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Am%20I%20Wrong.mp3"
@@ -7477,7 +7477,7 @@
     "id": 427,
     "album": "",
     "artist": "BTS",
-    "duration": 175,
+    "duration": "2:55",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "A Supplementary Story: You Never Walk Alone",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/A%20Supplementary%20Story%20You%20Never%20Walk%20Alone.mp3"
@@ -7486,7 +7486,7 @@
     "id": 426,
     "album": "",
     "artist": "BTS",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "21st Century Girls (21세기 소녀)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/21st%20Century%20Girl.mp3"
@@ -7495,7 +7495,7 @@
     "id": 425,
     "album": "",
     "artist": "BTS",
-    "duration": 272,
+    "duration": "4:32",
     "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
     "title": "Two! Three! (Still Wishing There Will Be Better Days)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/2%21%203%21.mp3"
@@ -7504,7 +7504,7 @@
     "id": 424,
     "album": "",
     "artist": "SHINee",
-    "duration": 179,
+    "duration": "2:59",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "Atlantis",
     "url": "http://docs.google.com/uc?xport=download&id=1O3uBDLDtdOAvTsyc4jaxmpZawknwmf9v"
@@ -7513,7 +7513,7 @@
     "id": 423,
     "album": "",
     "artist": "SHINee",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "CØDE",
     "url": "http://docs.google.com/uc?xport=download&id=1Ou1H17mUelKQ-P7S7aIVsmP-ZFY06t9I"
@@ -7522,7 +7522,7 @@
     "id": 422,
     "album": "",
     "artist": "SHINee",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "Don't Call Me",
     "url": "http://docs.google.com/uc?xport=download&id=1qDxc9eOOZcTc3RE8h0sSkA3JONC8-Opi"
@@ -7531,7 +7531,7 @@
     "id": 421,
     "album": "",
     "artist": "SHINee",
-    "duration": 179,
+    "duration": "2:59",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "Heart Attack",
     "url": "http://docs.google.com/uc?xport=download&id=1DX7Z7f9PObJKOIruWuQKhpB9lIk7F7ni"
@@ -7540,7 +7540,7 @@
     "id": 420,
     "album": "",
     "artist": "SHINee",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "I Really Want You",
     "url": "http://docs.google.com/uc?xport=download&id=1QUoI7U7WyKtoH3-uDUHTK3_jwpgGTisa"
@@ -7549,7 +7549,7 @@
     "id": 419,
     "album": "",
     "artist": "SHINee",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "Kiss Kiss",
     "url": "http://docs.google.com/uc?xport=download&id=1Sdcu6S7zSTr__-f-8WMOtZi-qs8g0JtK"
@@ -7558,7 +7558,7 @@
     "id": 418,
     "album": "",
     "artist": "SHINee",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://i.pinimg.com/736x/0d/5d/be/0d5dbe58269529f9411f676dfb81f68c.jpg",
     "title": "Marry You",
     "url": "http://docs.google.com/uc?xport=download&id=1gjA1FyjGB3U_pBYwZNmcvdcFw49LDjER"
@@ -7810,7 +7810,7 @@
     "id": 390,
     "album": "",
     "artist": "TWICE",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "MORE & MORE",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/TWICE%20%28트와이스%29%20-%20MORE%20%26%20MORE.mp3"
@@ -7819,7 +7819,7 @@
     "id": 389,
     "album": "",
     "artist": "TWICE",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "I CAN'T STOP ME",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20-%20I%20CAN%27T%20STOP%20ME.mp3"
@@ -7828,7 +7828,7 @@
     "id": 388,
     "album": "",
     "artist": "TWICE",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Cry For Me",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20CRY%20FOR%20ME.mp3"
@@ -7837,7 +7837,7 @@
     "id": 387,
     "album": "",
     "artist": "TWICE",
-    "duration": 180,
+    "duration": "3:00",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Dance The Night Away",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20Dance%20The%20Night%20Away.mp3"
@@ -7846,7 +7846,7 @@
     "id": 386,
     "album": "",
     "artist": "TWICE",
-    "duration": 175,
+    "duration": "2:55",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "DON'T CALL ME AGAIN",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Dont%20Call%20Me%20Again.mp3"
@@ -7855,7 +7855,7 @@
     "id": 385,
     "album": "",
     "artist": "TWICE",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "FIREWORK",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Firework.mp3"
@@ -7864,7 +7864,7 @@
     "id": 384,
     "album": "",
     "artist": "TWICE",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "MAKE ME GO",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Make%20Me%20Go.mp3"
@@ -7873,7 +7873,7 @@
     "id": 383,
     "album": "",
     "artist": "TWICE",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "OXYGEN",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Oxygen.mp3"
@@ -7882,7 +7882,7 @@
     "id": 382,
     "album": "",
     "artist": "TWICE",
-    "duration": 170,
+    "duration": "2:50",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "SHADOW",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Shadow.mp3"
@@ -7891,7 +7891,7 @@
     "id": 381,
     "album": "",
     "artist": "TWICE",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "SWEET SUMMER DAY",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/MORE%20%26%20MORE/Twice%20%28트와이스%29%20-%20Sweet%20Summer%20Day.mp3"
@@ -7900,7 +7900,7 @@
     "id": 380,
     "album": "",
     "artist": "TWICE",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "TT",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20TT.mp3"
@@ -7909,7 +7909,7 @@
     "id": 379,
     "album": "",
     "artist": "TWICE",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "What Is Love?",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20What%20is%20Love.mp3"
@@ -7918,7 +7918,7 @@
     "id": 378,
     "album": "",
     "artist": "TXT",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "New Rules",
     "url": "http://docs.google.com/uc?xport=download&id=1QQOJX9TwcX8iKisOcnpKu6KU8j6PkNuG"
@@ -7927,7 +7927,7 @@
     "id": 377,
     "album": "",
     "artist": "TXT",
-    "duration": 219,
+    "duration": "3:39",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "9 And Three Quarters",
     "url": "http://docs.google.com/uc?xport=download&id=1kLeKJdBhS4zAt2wLdsyGN8PP9uMRTdE1"
@@ -7936,7 +7936,7 @@
     "id": 376,
     "album": "",
     "artist": "TXT",
-    "duration": 212,
+    "duration": "3:32",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "We Lost The Summer (날 씨를 잃어 버렸어)",
     "url": "http://docs.google.com/uc?xport=download&id=121Zb1MD1QtwVgPct3nQTLLKsxWlRGjCl"
@@ -7945,7 +7945,7 @@
     "id": 375,
     "album": "",
     "artist": "TXT",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "PUMA (동물원을 빠져나온 퓨마)",
     "url": "http://docs.google.com/uc?xport=download&id=1IUHP4IMpzu9psy2WBqtvib18SN1SsVUB"
@@ -7954,7 +7954,7 @@
     "id": 374,
     "album": "",
     "artist": "TXT",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Cat & Dog (English Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1u0Xk8a0GgjKKsX0LU1VW9_SmOpuUOr3r"
@@ -7963,7 +7963,7 @@
     "id": 373,
     "album": "",
     "artist": "TXT",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Maze In The Mirror (거울 속의 미로)",
     "url": "http://docs.google.com/uc?xport=download&id=1zkZrkCyibJ_FdX6at5ibcNXyIBlzfDGp"
@@ -7972,7 +7972,7 @@
     "id": 372,
     "album": "",
     "artist": "TXT",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "20cm",
     "url": "http://docs.google.com/uc?xport=download&id=1teaYnDZaNuLJmx7W8W86UlZGWx71DwJr"
@@ -7981,7 +7981,7 @@
     "id": 371,
     "album": "",
     "artist": "TXT",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Angel Or Devil",
     "url": "http://docs.google.com/uc?xport=download&id=1qKP2SUKNF6vEuSEj5J18Y6sqWnz0awiv"
@@ -7990,7 +7990,7 @@
     "id": 370,
     "album": "",
     "artist": "TXT",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Blue Orangeade",
     "url": "http://docs.google.com/uc?xport=download&id=1KUDhyv3aHffP3RtxZZSHXHfMxldALYLj"
@@ -7999,7 +7999,7 @@
     "id": 369,
     "album": "",
     "artist": "TXT",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Can't You See Me?",
     "url": "http://docs.google.com/uc?xport=download&id=1eUzfbwyg29UIvBKw85vEcTbKFhNST9CR"
@@ -8008,7 +8008,7 @@
     "id": 368,
     "album": "",
     "artist": "TXT",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Can't We Just Leave The Monster Alive?",
     "url": "http://docs.google.com/uc?xport=download&id=1HVJZlWLk2TnajBapxStVm1jPEuiWyf1R"
@@ -8017,7 +8017,7 @@
     "id": 367,
     "album": "",
     "artist": "TXT",
-    "duration": 188,
+    "duration": "3:08",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Cat & Dog",
     "url": "http://docs.google.com/uc?xport=download&id=1MVawtHo-Bdwbv2SJHTS6PMJoPdlk63yU"
@@ -8026,7 +8026,7 @@
     "id": 366,
     "album": "",
     "artist": "G-idle",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "LATATA",
     "url": "http://docs.google.com/uc?xport=download&id=1-tHQ-hdHiJfe7Zi1x4RsgPzCXvmSP6wO"
@@ -8035,7 +8035,7 @@
     "id": 365,
     "album": "",
     "artist": "G-idle",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "$$$ (달라)",
     "url": "http://docs.google.com/uc?xport=download&id=1DWyBa0M6WHNRpaBdCYvCpjkChiTEz9JV"
@@ -8044,7 +8044,7 @@
     "id": 364,
     "album": "",
     "artist": "G-idle",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "MAZE",
     "url": "http://docs.google.com/uc?xport=download&id=1r7cXnzfD3FqGQYc6CKUnSLnmKId07IIT"
@@ -8053,7 +8053,7 @@
     "id": 363,
     "album": "",
     "artist": "G-idle",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "DON'T TEXT ME",
     "url": "http://docs.google.com/uc?xport=download&id=1P1AUeut2MR2h9FhSp5v5TReL7CC7_wBK"
@@ -8062,7 +8062,7 @@
     "id": 362,
     "album": "",
     "artist": "G-idle",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "What's In Your House? (알고 싶어)",
     "url": "http://docs.google.com/uc?xport=download&id=1aAUWS0P91hp2uy6mQ9e3sPVuIepKAxbE"
@@ -8071,7 +8071,7 @@
     "id": 361,
     "album": "",
     "artist": "G-idle",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "Hear Me (들어줘요)",
     "url": "http://docs.google.com/uc?xport=download&id=1Zl2SzeSP3osTuxtZUgCR4NVf5GJGQ3yL"
@@ -8080,7 +8080,7 @@
     "id": 360,
     "album": "",
     "artist": "G-idle",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "DUMDi DUMDi (덤디덤디)",
     "url": "http://docs.google.com/uc?xport=download&id=1TSRVpecuMrD0PD_5mltCMhPIR8v2drrH"
@@ -8089,7 +8089,7 @@
     "id": 359,
     "album": "",
     "artist": "G-idle",
-    "duration": 250,
+    "duration": "4:10",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "Fire (Cover 2NE1)",
     "url": "http://docs.google.com/uc?xport=download&id=1SCasebtSCXWkv9FpF40psP1gAn31Q9lG"
@@ -8098,7 +8098,7 @@
     "id": 358,
     "album": "",
     "artist": "G-idle",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "i'M THE TREND",
     "url": "http://docs.google.com/uc?xport=download&id=1h8brgLdhqX9BhZ4ySytbqh-ODM-RpIzm"
@@ -8107,7 +8107,7 @@
     "id": 357,
     "album": "",
     "artist": "G-idle",
-    "duration": 223,
+    "duration": "3:43",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "Relay (달려!)",
     "url": "http://docs.google.com/uc?xport=download&id=1TtNggorgk9pVYOeZaYbCK8DoXrGy2AII"
@@ -8116,7 +8116,7 @@
     "id": 356,
     "album": "",
     "artist": "G-idle",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://pm1.narvii.com/6903/75f92d9d1d8dab6caec7f2ac37df4f5fdb8b6a35r1-911-1024v2_hq.jpg",
     "title": "Uh-Oh",
     "url": "http://docs.google.com/uc?xport=download&id=1hCH35tuxamVIwEHfSKqyd2tswNFMlvX7"
@@ -8125,7 +8125,7 @@
     "id": 355,
     "album": "",
     "artist": "Cravity",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "Breathing (호흡)",
     "url": "https://ia902908.us.archive.org/14/items/cravity/CRAVITY/Hideout%253A%20The%20New%20Day%20We%20Step%20Into%20-%20Season%202/CRAVITY%20%28크래비티%29%20-%20Breathing%20%28호흡%29.mp3"
@@ -8134,7 +8134,7 @@
     "id": 354,
     "album": "",
     "artist": "Cravity",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "Ohh Ahh",
     "url": "https://ia802908.us.archive.org/14/items/cravity/CRAVITY/Hideout%253A%20The%20New%20Day%20We%20Step%20Into%20-%20Season%202/CRAVITY%20%28크래비티%29%20-%20Ohh%20Ahh.mp3"
@@ -8143,7 +8143,7 @@
     "id": 353,
     "album": "",
     "artist": "Cravity",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "Realize",
     "url": "https://ia802908.us.archive.org/14/items/cravity/CRAVITY/Hideout%253A%20The%20New%20Day%20We%20Step%20Into%20-%20Season%202/CRAVITY%20%28크래비티%29%20-%20Realize.mp3"
@@ -8152,7 +8152,7 @@
     "id": 352,
     "album": "",
     "artist": "Cravity",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "Hot Air Balloon (열기구)",
     "url": "https://ia802908.us.archive.org/14/items/cravity/CRAVITY/Hideout%253A%20The%20New%20Day%20We%20Step%20Into%20-%20Season%202/CRAVITY%20%28크래비티%29%20-%20Hot%20Air%20Balloon%20%28열기구%29.mp3"
@@ -8161,7 +8161,7 @@
     "id": 351,
     "album": "",
     "artist": "Cravity",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://www.hellokpop.com/wp-content/uploads/2020/04/1-e1587047735794.jpeg",
     "title": "Sunrise",
     "url": "https://ia802908.us.archive.org/14/items/cravity/CRAVITY/Hideout%253A%20The%20New%20Day%20We%20Step%20Into%20-%20Season%202/CRAVITY%20%28크래비티%29%20-%20Sunrise.mp3"
@@ -8170,7 +8170,7 @@
     "id": 350,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Aurora (Japanese Version)",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20%28에이티즈%29%20-%20AURORA%20%28Japanese%20Ver.%29.mp3"
@@ -8179,7 +8179,7 @@
     "id": 349,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Aurora",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20%28에이티즈%29%20-%20Aurora.mp3"
@@ -8188,7 +8188,7 @@
     "id": 348,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Utopia (Japanese Version)",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%20%28에이티즈%29%20-%20UTOPIA%20%28Japanese%20Ver.%29.mp3"
@@ -8197,7 +8197,7 @@
     "id": 347,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Celebrate",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Celebrate.mp3"
@@ -8206,7 +8206,7 @@
     "id": 346,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "I'm The One (HEAT-TOPPING Version)",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20I%27m%20The%20One%20%28HEAT-TOPPING%20Version%29.mp3"
@@ -8215,7 +8215,7 @@
     "id": 345,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Fireworks (I'm The One) (불놀이야)",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20I%27m%20The%20One.mp3"
@@ -8224,7 +8224,7 @@
     "id": 344,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Pirate King (해적왕)",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Pirate%20King%20%28해적왕%29.mp3"
@@ -8233,7 +8233,7 @@
     "id": 343,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Take Me Home (English Version)",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Take%20Me%20Home%20%28English%20Version%29.mp3"
@@ -8242,7 +8242,7 @@
     "id": 342,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Take Me Home",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Take%20Me%20Home.mp3"
@@ -8251,7 +8251,7 @@
     "id": 341,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "The Leaders (선도부)",
     "url": "https://ia904505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20The%20Leaders%20%28선도부%29.mp3"
@@ -8260,7 +8260,7 @@
     "id": 340,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 175,
+    "duration": "2:55",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Time Of Love",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Time%20Of%20Love.mp3"
@@ -8269,7 +8269,7 @@
     "id": 339,
     "album": "",
     "artist": "ATEEZ",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
     "title": "Wave",
     "url": "https://ia804505.us.archive.org/31/items/atezkpop/ATEEZ%28에이티즈%29%20-%20Wave.mp3"
@@ -8278,7 +8278,7 @@
     "id": 338,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "A Fool Of Tears (눈물뿐인 바보)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20A%20Fool%20Of%20Tears%20%28눈물뿐인%20바보%29.mp3"
@@ -8287,7 +8287,7 @@
     "id": 337,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "A Good Man (착한 사람)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20A%20Good%20Man%20%28착한%20사람%29.mp3"
@@ -8296,7 +8296,7 @@
     "id": 336,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Act Like Nothing's Wrong (아무렇지 않은 척) (feat. Kim Ji Eun)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Act%20Like%20Nothing%27s%20Wrong%20%28아무렇지%20않은%20척%3B%20Amureochi%20Anheun%20Cheok%29.mp3"
@@ -8305,7 +8305,7 @@
     "id": 335,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Always (English Version)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Always%20%28English%20Version%29.mp3"
@@ -8314,7 +8314,7 @@
     "id": 334,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Always",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Always.mp3"
@@ -8323,7 +8323,7 @@
     "id": 333,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Baby Baby (English Version)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Baby%20Baby%20%28English%20Version%29.mp3"
@@ -8332,7 +8332,7 @@
     "id": 332,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Big Bang (English Version)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Big%20Bang%20%28English%20Version%29.mp3"
@@ -8341,7 +8341,7 @@
     "id": 331,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Big Boy (feat. Lee Eunju)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Big%20Boy%20%28Feat%20Lee%20Eunju%29.mp3"
@@ -8350,7 +8350,7 @@
     "id": 330,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Blue (Japanese Version)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20BLUE%20%28Japanese%20Version%29.mp3"
@@ -8359,7 +8359,7 @@
     "id": 329,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 175,
+    "duration": "2:55",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Come Be My Lady",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Come%20Be%20My%20Lady.mp3"
@@ -8368,7 +8368,7 @@
     "id": 328,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Dirty Cash",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Dirty%20Cash.mp3"
@@ -8377,7 +8377,7 @@
     "id": 327,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Everything",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Everything.mp3"
@@ -8386,7 +8386,7 @@
     "id": 326,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 252,
+    "duration": "4:12",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Fantastic Baby (Japanese Version)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20FANTASTIC%20BABY%20%28Japanese%20Version%29.mp3"
@@ -8395,7 +8395,7 @@
     "id": 325,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 253,
+    "duration": "4:13",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Haru Haru (하루 하루)",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Haru%20Haru%20%28하루%20하루%29.mp3"
@@ -8404,7 +8404,7 @@
     "id": 324,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "How Gee (English Version)",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20How%20Gee%20%28English%20Version%29.mp3"
@@ -8413,7 +8413,7 @@
     "id": 323,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 177,
+    "duration": "2:57",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "La La La",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20La%20La%20La.mp3"
@@ -8422,7 +8422,7 @@
     "id": 322,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Lady",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Lady.mp3"
@@ -8431,7 +8431,7 @@
     "id": 321,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 252,
+    "duration": "4:12",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Laugh It Off (웃어본다)",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Laugh%20It%20Off%20%28웃어본다%29.mp3"
@@ -8440,7 +8440,7 @@
     "id": 320,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Lies (거짓말)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Lies%20%28거짓말%3B%20Geojitmal%29.mp3"
@@ -8449,7 +8449,7 @@
     "id": 319,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Love Dust (사랑먼지)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Love%20Dust.mp3"
@@ -8458,7 +8458,7 @@
     "id": 318,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Make Love",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Make%20Love.mp3"
@@ -8467,7 +8467,7 @@
     "id": 317,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "My Girl",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20My%20Girl.mp3"
@@ -8476,7 +8476,7 @@
     "id": 316,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "My Heaven",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20My%20Heaven%20%28천국%29.mp3"
@@ -8485,7 +8485,7 @@
     "id": 315,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Next Day (다음날)",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Next%20Day%20%28다음날%29.mp3"
@@ -8494,7 +8494,7 @@
     "id": 314,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Number 1",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Number%201.mp3"
@@ -8503,7 +8503,7 @@
     "id": 313,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Oh Ma Baby",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Oh%20Ma%20Baby.mp3"
@@ -8512,7 +8512,7 @@
     "id": 312,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Oh My Friend (feat. No Brain)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Oh%20My%20Friend.mp3"
@@ -8521,7 +8521,7 @@
     "id": 311,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Remember (English Version)",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Remember%20%28English%20Version%29.mp3"
@@ -8530,7 +8530,7 @@
     "id": 310,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 225,
+    "duration": "3:45",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Shake It (흔들어) (feat. Lee Eunju)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Shake%20It%20%28흔들어%29.mp3"
@@ -8539,7 +8539,7 @@
     "id": 309,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "She Can't Get Enough",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20She%20Cant%20Get%20Enough.mp3"
@@ -8548,7 +8548,7 @@
     "id": 308,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "So Beautiful",
     "url": "https://ia601905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20So%20Beautiful.mp3"
@@ -8557,7 +8557,7 @@
     "id": 307,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "This Love",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20This%20Love.mp3"
@@ -8566,7 +8566,7 @@
     "id": 306,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Together Forever (눈물뿐인 바보)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Together%20Forever.mp3"
@@ -8575,7 +8575,7 @@
     "id": 305,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "V.I.P",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20V.I.P.mp3"
@@ -8584,7 +8584,7 @@
     "id": 304,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "With U",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20With%20U.mp3"
@@ -8593,7 +8593,7 @@
     "id": 303,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Wrong Number (없는 번호)",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/BIGBANG%20%28빅뱅%29%20-%20Wrong%20Number%20%28없는%20번호%3B%20Eoptneun%20Beonho%29.mp3"
@@ -8602,7 +8602,7 @@
     "id": 302,
     "album": "",
     "artist": "BIGBANG",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bigbang_Lollipop.jpg",
     "title": "Lollipop",
     "url": "https://ia801905.us.archive.org/26/items/m1reng_202007/Bigbang%20%26%202NE1%20%28빅뱅%20%26%20투애니원%29%20-%20Lollipop.mp3"
@@ -8611,7 +8611,7 @@
     "id": 301,
     "album": "",
     "artist": "EXO",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Damage",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20%27DAMAGE.mp3"
@@ -8620,7 +8620,7 @@
     "id": 300,
     "album": "",
     "artist": "EXO",
-    "duration": 190,
+    "duration": "3:10",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "With You (가끔)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20%27With%20You%20%28가끔%29.mp3"
@@ -8629,7 +8629,7 @@
     "id": 299,
     "album": "",
     "artist": "EXO",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "24/7",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%2024-7.mp3"
@@ -8638,7 +8638,7 @@
     "id": 298,
     "album": "",
     "artist": "EXO",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Don't Go (나비소녀)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Don%27t%20Go%20%28나비소녀%29.mp3"
@@ -8647,7 +8647,7 @@
     "id": 297,
     "album": "",
     "artist": "EXO",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "El Dorado",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20El%20Dorado.mp3"
@@ -8656,7 +8656,7 @@
     "id": 296,
     "album": "",
     "artist": "EXO",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Gravity",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20GRAVITY.mp3"
@@ -8665,7 +8665,7 @@
     "id": 295,
     "album": "",
     "artist": "EXO",
-    "duration": 196,
+    "duration": "3:16",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Oasis (오아시스)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Oasis%20%28오아시스%29.mp3"
@@ -8674,7 +8674,7 @@
     "id": 294,
     "album": "",
     "artist": "EXO",
-    "duration": 244,
+    "duration": "4:04",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Obsession",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Obsession.mp3"
@@ -8683,7 +8683,7 @@
     "id": 293,
     "album": "",
     "artist": "EXO",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Ooh La La La (닿은 순간)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Ooh%20La%20La%20La%20%28닿은%20순간%29.mp3"
@@ -8692,7 +8692,7 @@
     "id": 292,
     "album": "",
     "artist": "EXO",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Peter Pan (피터팬)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Peter%20Pan%20%28피터팬%29.mp3"
@@ -8701,7 +8701,7 @@
     "id": 291,
     "album": "",
     "artist": "EXO",
-    "duration": 286,
+    "duration": "4:46",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Promise (약속) EXO 2014",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20Promise%20%28약속%29%20EXO%202014.mp3"
@@ -8710,7 +8710,7 @@
     "id": 290,
     "album": "",
     "artist": "EXO",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Sign",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20SIGN.mp3"
@@ -8719,7 +8719,7 @@
     "id": 289,
     "album": "",
     "artist": "EXO",
-    "duration": 176,
+    "duration": "2:56",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "The Eve",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20-%20The%20Eve%20%28전야%29.mp3"
@@ -8728,7 +8728,7 @@
     "id": 288,
     "album": "",
     "artist": "EXO",
-    "duration": 216,
+    "duration": "3:36",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Smile On My Face (여기 있을게)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20–%20SMILE%20ON%20MY%20FACE%20%28여기%20있을게%29.mp3"
@@ -8737,7 +8737,7 @@
     "id": 287,
     "album": "",
     "artist": "EXO",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Trauma (트라우마)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/EXO%20%28엑소%29%20–%20Trauma%20%28트라우마%29.mp3"
@@ -8746,7 +8746,7 @@
     "id": 286,
     "album": "",
     "artist": "EXO",
-    "duration": 253,
+    "duration": "4:13",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Baekhyun - Amusement Park (놀이공원)",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/BAEKHYUN%20%28백현%29%20-%20Amusement%20Park%20%28놀이공원%29.mp3"
@@ -8755,7 +8755,7 @@
     "id": 285,
     "album": "",
     "artist": "EXO",
-    "duration": 249,
+    "duration": "4:09",
     "image": "https://pm1.narvii.com/6484/ea48a8e0a3cbf9d644b56a6ff924a8d310b46cde_hq.jpg",
     "title": "Baekhyun - Get You Alone",
     "url": "https://ia601500.us.archive.org/25/items/exokpop/BAEKHYUN%20%28백현%29%20-%20Get%20You%20Alone.mp3"
@@ -8764,7 +8764,7 @@
     "id": 284,
     "album": "",
     "artist": "iKon",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Everything",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Everything.mp3"
@@ -8773,7 +8773,7 @@
     "id": 283,
     "album": "",
     "artist": "iKon",
-    "duration": 208,
+    "duration": "3:24",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Love Me",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Love%20Me.mp3"
@@ -8782,7 +8782,7 @@
     "id": 282,
     "album": "",
     "artist": "iKon",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Don't Let Me Know",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Don%27t%20Let%20Me%20Know.mp3"
@@ -8791,7 +8791,7 @@
     "id": 281,
     "album": "",
     "artist": "iKon",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Goodbye Road",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Goodbye%20Road.mp3"
@@ -8800,7 +8800,7 @@
     "id": 280,
     "album": "",
     "artist": "iKon",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Long Time No See",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Long%20Time%20No%20See.mp3"
@@ -8809,7 +8809,7 @@
     "id": 279,
     "album": "",
     "artist": "iKon",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Best Friend",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Best%20Friend.mp3"
@@ -8818,7 +8818,7 @@
     "id": 278,
     "album": "",
     "artist": "iKon",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Just Go",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Just%20Go.mp3"
@@ -8827,7 +8827,7 @@
     "id": 277,
     "album": "",
     "artist": "iKon",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Adore You",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Adore%20You.mp3"
@@ -8836,7 +8836,7 @@
     "id": 276,
     "album": "",
     "artist": "iKon",
-    "duration": 253,
+    "duration": "4:13",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Don't Forget",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Don%27t%20Forget.mp3"
@@ -8845,7 +8845,7 @@
     "id": 275,
     "album": "",
     "artist": "iKon",
-    "duration": 223,
+    "duration": "3:43",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Jerk",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Jerk.mp3"
@@ -8854,7 +8854,7 @@
     "id": 274,
     "album": "",
     "artist": "iKon",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Perfect",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Perfect.mp3"
@@ -8863,7 +8863,7 @@
     "id": 273,
     "album": "",
     "artist": "iKon",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Hug Me",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Hug%20Me.mp3"
@@ -8872,7 +8872,7 @@
     "id": 272,
     "album": "",
     "artist": "iKon",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Just For You (줄게)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Just%20For%20You.mp3"
@@ -8881,7 +8881,7 @@
     "id": 271,
     "album": "",
     "artist": "iKon",
-    "duration": 258,
+    "duration": "4:18",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Flower (너란 바람 따라)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Flower.mp3"
@@ -8890,7 +8890,7 @@
     "id": 270,
     "album": "",
     "artist": "iKon",
-    "duration": 185,
+    "duration": "3:05",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Ah Yeah",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Ah%20Yeah.mp3"
@@ -8899,7 +8899,7 @@
     "id": 269,
     "album": "",
     "artist": "iKon",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "All The World (온 세상)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20All%20The%20World%20%28온%20세상%29.mp3"
@@ -8908,7 +8908,7 @@
     "id": 268,
     "album": "",
     "artist": "iKon",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Apology (지못미)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Apology%20%28지못미%29.mp3"
@@ -8917,7 +8917,7 @@
     "id": 267,
     "album": "",
     "artist": "iKon",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Holding On (견딜만해)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon-%20Holding%20On.mp3"
@@ -8926,7 +8926,7 @@
     "id": 266,
     "album": "",
     "artist": "iKon",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://0.soompi.io/wp-content/uploads/2016/01/14224810/iKON1.jpg",
     "title": "Why Why Why (왜왜왜)",
     "url": "https://ia601402.us.archive.org/25/items/i-kon/iKon%20-%20Why%20Why%20Why.mp3"
@@ -8935,7 +8935,7 @@
     "id": 265,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Eyes",
     "url": "http://docs.google.com/uc?xport=download&id=1fjnGHaT1_nkmKtXI-viFOqFMYUWwNWjV"
@@ -8944,7 +8944,7 @@
     "id": 264,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Fiesta",
     "url": "http://docs.google.com/uc?xport=download&id=1HTfPR6KjDqkyy2ukm03l0P6jen1ILwxy"
@@ -8953,7 +8953,7 @@
     "id": 263,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 227,
+    "duration": "3:47",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Dreamlike",
     "url": "http://docs.google.com/uc?xport=download&id=148bJPXxUxjQXUBworJ4oImfTP-RFB1bn"
@@ -8962,7 +8962,7 @@
     "id": 262,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Ayayaya",
     "url": "http://docs.google.com/uc?xport=download&id=1ENSz8n5EP4J3k1Q23s1vhTJhVbpVMe4n"
@@ -8971,7 +8971,7 @@
     "id": 261,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "So Curious",
     "url": "http://docs.google.com/uc?xport=download&id=1PxKd8AEThqj8_Roj4L2Wkod3FZOXh7rO"
@@ -8980,7 +8980,7 @@
     "id": 260,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 172,
+    "duration": "2:52",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Spaceship",
     "url": "http://docs.google.com/uc?xport=download&id=15j-Ww9RXWO-W0I40KGk2RxJQoCdG81V"
@@ -8989,7 +8989,7 @@
     "id": 259,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Destiny (우연이 아니야)",
     "url": "http://docs.google.com/uc?xport=download&id=17uzLA_CC9T6KlpTuO5J2wE-TOPBn356k"
@@ -8998,7 +8998,7 @@
     "id": 258,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "You & I",
     "url": "http://docs.google.com/uc?xport=download&id=1PUnFoXpQuRMlasJPTwk__w-zaziCz7lQ"
@@ -9007,7 +9007,7 @@
     "id": 257,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Daydream",
     "url": "http://docs.google.com/uc?xport=download&id=1K0GJ5mbUgBflcEXTmJ0Tpg11zRiNs7Ek"
@@ -9016,7 +9016,7 @@
     "id": 256,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Pink Blusher",
     "url": "http://docs.google.com/uc?xport=download&id=11GRAOo6VgBWmmVkPnFc1lcD5mP0xAblG"
@@ -9025,7 +9025,7 @@
     "id": 255,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Someday (언젠가 우리의 밤도 지나가겠죠)",
     "url": "http://docs.google.com/uc?xport=download&id=1NVIBSYqEQrK9i-zQWC7EfoSk47DUp8bL"
@@ -9034,7 +9034,7 @@
     "id": 254,
     "album": "",
     "artist": "IZ*ONE",
-    "duration": 198,
+    "duration": "3:18",
     "image": "https://i.redd.it/obceohfe3jh21.jpg",
     "title": "Open Your Eyes",
     "url": "http://docs.google.com/uc?xport=download&id=1WDsH6iNicne77RrsOLsJnqozIf4P6P9a"
@@ -9043,7 +9043,7 @@
     "id": 253,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=1",
     "title": "I'm So Hot",
     "url": "http://docs.google.com/uc?xport=download&id=1pUWPVUKjRnMEphDAz7uE7l5gpvlQpFLm"
@@ -9052,7 +9052,7 @@
     "id": 252,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 173,
+    "duration": "2:53",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=2",
     "title": "Falling U",
     "url": "http://docs.google.com/uc?xport=download&id=1Fwl8wEOzOTYhcGFjsJCozpsgh_W9mymy"
@@ -9061,7 +9061,7 @@
     "id": 251,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=3",
     "title": "Light Up (빛나)",
     "url": "http://docs.google.com/uc?xport=download&id=1pRktL5Xx4fEnK2Aw43NPCsaCP9PCfaUN"
@@ -9070,7 +9070,7 @@
     "id": 250,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=4",
     "title": "Holiday",
     "url": "http://docs.google.com/uc?xport=download&id=1mDSmoLd78tcsQW_qI4a8SUW27jyQnpmX"
@@ -9079,7 +9079,7 @@
     "id": 249,
     "album": "",
     "artist": "MOMOLAND",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://i0.wp.com/profilesio.com/wp-content/uploads/Momoland-Members-Profile.jpg?fit=600%2C590&ssl=5",
     "title": "What You Want",
     "url": "http://docs.google.com/uc?xport=download&id=16tLb88vF9vOlFwrKpQO1AVXnddgxYify"
@@ -9088,7 +9088,7 @@
     "id": 248,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 184,
+    "duration": "3:04",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Beautiful Night",
     "url": "http://docs.google.com/uc?xport=download&id=1CzFc_eShQolayeYVXJqrvtyysXhbIAhw"
@@ -9097,7 +9097,7 @@
     "id": 247,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 214,
+    "duration": "3:34",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "BESIDE U (I.M RAP VERSION)",
     "url": "http://docs.google.com/uc?xport=download&id=1gGBEBXU_2ejntMl6WIBBgA_3emG4yKxz"
@@ -9106,7 +9106,7 @@
     "id": 246,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "BESIDE U (feat. Pitbull)",
     "url": "http://docs.google.com/uc?xport=download&id=1e0BLJgokoulyTNmjjjrhVcidENczOCJS"
@@ -9115,7 +9115,7 @@
     "id": 245,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Burn It Up",
     "url": "http://docs.google.com/uc?xport=download&id=1DG2xugh62-rX0UiUwpRidpQUo2On1_nu"
@@ -9124,7 +9124,7 @@
     "id": 244,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Chaotic",
     "url": "http://docs.google.com/uc?xport=download&id=1kPXyoj8SJ704-UE5rIJiQnrxtdJwMNE_"
@@ -9133,7 +9133,7 @@
     "id": 243,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Disaster",
     "url": "http://docs.google.com/uc?xport=download&id=1H6dd0-KBbM6cHFw-xhbAol1BiTXvp6_5"
@@ -9142,7 +9142,7 @@
     "id": 242,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "FANTASIA",
     "url": "http://docs.google.com/uc?xport=download&id=1YmwF5V9TqeM8sSsMJEL-C_QMOY3KmHJC"
@@ -9151,7 +9151,7 @@
     "id": 241,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Find You",
     "url": "http://docs.google.com/uc?xport=download&id=1ueSJRBRmsytO2oqk_GmkYv8SbJ8RoaNs"
@@ -9160,7 +9160,7 @@
     "id": 240,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "FLOW",
     "url": "http://docs.google.com/uc?xport=download&id=1QKwSfCaLlzNqzDZ0fYsdsShcVr6k7EyX"
@@ -9169,7 +9169,7 @@
     "id": 239,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Follow",
     "url": "http://docs.google.com/uc?xport=download&id=1hJKbWmf7-uabSoY2jg98TQdK45Weckv_"
@@ -9178,7 +9178,7 @@
     "id": 238,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 174,
+    "duration": "2:54",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "GOT MY NUMBER",
     "url": "http://docs.google.com/uc?xport=download&id=1IDovYzVENzzawK8qKdlUCJZvxZbSIbBy"
@@ -9187,7 +9187,7 @@
     "id": 237,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 178,
+    "duration": "2:58",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "HAPPY WITHOUT ME",
     "url": "http://docs.google.com/uc?xport=download&id=1W6ErftwjAYNd9LrJGnoIdZMBpj_21FeX"
@@ -9196,7 +9196,7 @@
     "id": 236,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "IT AIN'T OVER",
     "url": "http://docs.google.com/uc?xport=download&id=1wii5Y82GrYNkFM6ZQ_tWjrTZguuZw9Dr"
@@ -9205,7 +9205,7 @@
     "id": 235,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 159,
+    "duration": "2:39",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "LOVE U",
     "url": "http://docs.google.com/uc?xport=download&id=1NoWwgPdOZkMSDvx1luBExXG2IsLWa2EF"
@@ -9214,7 +9214,7 @@
     "id": 234,
     "album": "",
     "artist": "VICTON",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Howling",
     "url": "http://docs.google.com/uc?xport=download&id=10yZao-DnxECqrWdDVchlrLJEgcxQqyCT"
@@ -9223,7 +9223,7 @@
     "id": 233,
     "album": "",
     "artist": "VICTON",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Into The Mirror",
     "url": "http://docs.google.com/uc?xport=download&id=1xyfOL1tMzgugFkRCqPovbp8Ek4FBH1Fv"
@@ -9232,7 +9232,7 @@
     "id": 232,
     "album": "",
     "artist": "VICTON",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Mayday",
     "url": "http://docs.google.com/uc?xport=download&id=155nnX_FJeQ1Ij0PZH5CgEcN3KuyOPFq4"
@@ -9241,7 +9241,7 @@
     "id": 231,
     "album": "",
     "artist": "VICTON",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Nightmare",
     "url": "http://docs.google.com/uc?xport=download&id=1Aj16-Z9toI2mzhborJMUccCfxZ_8TB7v"
@@ -9250,7 +9250,7 @@
     "id": 230,
     "album": "",
     "artist": "VICTON",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Nostalgic Night (그리운 밤)",
     "url": "http://docs.google.com/uc?xport=download&id=1jYoEnlicO8-hkiKaRsmb8V3WHkvleEqo"
@@ -9259,7 +9259,7 @@
     "id": 229,
     "album": "",
     "artist": "VICTON",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Petal",
     "url": "http://docs.google.com/uc?xport=download&id=1kyMEGtfMNklzLyE-aU9eGrPluHiRQjR_"
@@ -9268,7 +9268,7 @@
     "id": 228,
     "album": "",
     "artist": "VICTON",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Time Of Sorrow (오월애 / 俉月哀)",
     "url": "http://docs.google.com/uc?xport=download&id=1ZQUliKfB9R3bN_Sbk8nN01DQyL8rwWt3"
@@ -9277,7 +9277,7 @@
     "id": 227,
     "album": "",
     "artist": "VICTON",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Unbelievable (말도 안돼)",
     "url": "http://docs.google.com/uc?xport=download&id=1VWSrCfPaWkG9UnbskWZcpXsaqN3NVlYo"
@@ -9286,7 +9286,7 @@
     "id": 226,
     "album": "",
     "artist": "VICTON",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "What I Said",
     "url": "http://docs.google.com/uc?xport=download&id=10Y2tn-znRJmv_wEtI8kIzPyHW41reY3P"
@@ -9295,7 +9295,7 @@
     "id": 225,
     "album": "",
     "artist": "VICTON",
-    "duration": 262,
+    "duration": "4:22",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "White Night",
     "url": "http://docs.google.com/uc?xport=download&id=1hSWjQ6vR8JznQ_IpVxWW2k9BQUWDATSm"
@@ -9304,7 +9304,7 @@
     "id": 224,
     "album": "",
     "artist": "VICTON",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "All I Know",
     "url": "http://docs.google.com/uc?xport=download&id=1lBWUjprMsnlXvrMzWwd0dmIgS1u04e6b"
@@ -9313,7 +9313,7 @@
     "id": 223,
     "album": "",
     "artist": "VICTON",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Chess",
     "url": "http://docs.google.com/uc?xport=download&id=1luwVIG9secywgGIzldrIb5rZ5QuFzGVd"
@@ -9322,7 +9322,7 @@
     "id": 222,
     "album": "",
     "artist": "VICTON",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://todaykpop.com/wp-content/uploads/2020/05/VICTON-Mengumumkan-Kembalinya-Juni-Soompi.jpegs900x600et.jpeg",
     "title": "Circle",
     "url": "http://docs.google.com/uc?xport=download&id=1_MrauZ-UMd2GBc6LvKC6EIKDmQ3UdW6r"
@@ -9331,7 +9331,7 @@
     "id": 221,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 170,
+    "duration": "2:50",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "MIDDLE OF THE NIGHT",
     "url": "http://docs.google.com/uc?xport=download&id=14MAPNsL5jJD6MKv92TSUeaExFj7uCKRQ"
@@ -9340,7 +9340,7 @@
     "id": 220,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Mirror",
     "url": "http://docs.google.com/uc?xport=download&id=1JvF6T_Vi2FFfirlkpgXRYV6CHVhL-_Xh"
@@ -9349,7 +9349,7 @@
     "id": 219,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "MISBEHAVE",
     "url": "http://docs.google.com/uc?xport=download&id=1HI4_BXhT63ANAYQw1oviw0OyRF6MRb1h"
@@ -9358,7 +9358,7 @@
     "id": 218,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 220,
+    "duration": "3:44",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Monsta Truck",
     "url": "http://docs.google.com/uc?xport=download&id=1wWL0I4Pk1lT4e7M0QrGDQ1fvJbR7QpzW"
@@ -9367,7 +9367,7 @@
     "id": 217,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 198,
+    "duration": "3:18",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "See You Again",
     "url": "http://docs.google.com/uc?xport=download&id=1Hk5SZbnV14dF64I4H_JNnaJ8Yr_NKQFR"
@@ -9376,7 +9376,7 @@
     "id": 216,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 204,
+    "duration": "3:24",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "SHE'S THE ONE",
     "url": "http://docs.google.com/uc?xport=download&id=1oiDzULcBa-cENdMp4LnCDib43LTlquon"
@@ -9385,7 +9385,7 @@
     "id": 215,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 141,
+    "duration": "2:21",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "SOMEONE'S SOMEONE",
     "url": "http://docs.google.com/uc?xport=download&id=1oc2r76weccOy7NFa-AC2ImVW0deYUSaG"
@@ -9394,7 +9394,7 @@
     "id": 214,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "Stand Up",
     "url": "http://docs.google.com/uc?xport=download&id=1NJEeCzkuOWinJ6LVSWC1HcpbpjzG5BHE"
@@ -9403,7 +9403,7 @@
     "id": 213,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 224,
+    "duration": "3:44",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "U R",
     "url": "http://docs.google.com/uc?xport=download&id=1RUox3Q2pD2Q1XqrvctRoWEpNVCuDXydS"
@@ -9412,7 +9412,7 @@
     "id": 212,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "WHO DO U LOVE? (will.i.am Remix)",
     "url": "http://docs.google.com/uc?xport=download&id=1reJdJA4MTJz3bIUl4wufpSXWvdSlYOGD"
@@ -9421,7 +9421,7 @@
     "id": 211,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 189,
+    "duration": "3:19",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "WHO DO U LOVE?",
     "url": "http://docs.google.com/uc?xport=download&id=1FAPKrQaZpVy2U_eYhH7L2xyzaB_qWpVC"
@@ -9430,7 +9430,7 @@
     "id": 210,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "YOU CAN'T HOLD MY HEART",
     "url": "http://docs.google.com/uc?xport=download&id=1og6IoOa0zo5MJvihUn8YS-vNUNuaBBHL"
@@ -9439,7 +9439,7 @@
     "id": 209,
     "album": "",
     "artist": "MONSTA X",
-    "duration": 193,
+    "duration": "3:12",
     "image": "https://www.hellokpop.com/wp-content/uploads/2019/06/monsta-x-nylon-japan-1024x887.jpg",
     "title": "ZONE",
     "url": "http://docs.google.com/uc?xport=download&id=16zJ-JDFy7qMRLw5540Us6VOoyQR1RFhq"
@@ -9448,7 +9448,7 @@
     "id": 208,
     "album": "",
     "artist": "NCT",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - gimme gimme",
     "url": "http://docs.google.com/uc?xport=download&id=1dHfuJhfzKIWIz1aTGt3MR_-8twNPY6ox"
@@ -9457,7 +9457,7 @@
     "id": 207,
     "album": "",
     "artist": "NCT",
-    "duration": 229,
+    "duration": "3:49",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Blow My Mind",
     "url": "http://docs.google.com/uc?xport=download&id=1OTbBOxa786Z30CqZtsJXQEE2i8FK8Y0K"
@@ -9466,7 +9466,7 @@
     "id": 206,
     "album": "",
     "artist": "NCT",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - BOOM",
     "url": "http://docs.google.com/uc?xport=download&id=1sxuB4HYxTo0ar9CSE7T3Lq5SNGdtb4S7"
@@ -9475,7 +9475,7 @@
     "id": 205,
     "album": "",
     "artist": "NCT",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Chain",
     "url": "http://docs.google.com/uc?xport=download&id=113pAwpS3LW_Su8abMXbLMfJo0v0DSqjs"
@@ -9484,7 +9484,7 @@
     "id": 204,
     "album": "",
     "artist": "NCT",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Cherry Bomb",
     "url": "http://docs.google.com/uc?xport=download&id=1wrA5_mxGlYGbX-lumafdkYFyTcRS6xMX"
@@ -9493,7 +9493,7 @@
     "id": 203,
     "album": "",
     "artist": "NCT",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Day Dream (白日夢)",
     "url": "http://docs.google.com/uc?xport=download&id=1c6Zh8wyTsG0BrrLgdJ2NQRshc-ZIQuYR"
@@ -9502,7 +9502,7 @@
     "id": 202,
     "album": "",
     "artist": "NCT",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Dreams Come True",
     "url": "http://docs.google.com/uc?xport=download&id=1G0ODTY4sbskbm5egTIBP1yrCFa-v57b1"
@@ -9511,7 +9511,7 @@
     "id": 201,
     "album": "",
     "artist": "NCT",
-    "duration": 221,
+    "duration": "3:41",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - Elevator (127F)",
     "url": "http://docs.google.com/uc?xport=download&id=1CBDLDVOHVeOgc8kenqABq4um5Jd1Agcx"

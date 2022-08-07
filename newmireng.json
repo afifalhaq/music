@@ -135,12 +135,12 @@
     "logo": "https://1409791524.rsc.cdn77.org/data/thumbs/full/547971/650/0/0/0/itzy-wannabe-mv-3-consecutive-100-million-views.jpg"
   },
   {
-    "artis": "IVE",
-    "logo": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg"
-  },
-  {
     "artis": "IU",
     "logo": "http://4.bp.blogspot.com/-LQaQuSPeXoA/VqZF017s21I/AAAAAAAADWk/uVVHbnc5hPQ/s1600/cute-IU-short-hairstyle.jpg"
+  },
+  {
+    "artis": "IVE",
+    "logo": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg"
   },
   {
     "artis": "IZ*ONE",
@@ -165,6 +165,10 @@
   {
     "artis": "NCT",
     "logo": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg"
+  },
+  {
+    "artis": "NewJeans",
+    "logo": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg"
   },
   {
     "artis": "NiziU",
@@ -238,13 +242,49 @@
   
   "DATA": [
   {
-    "id": 1231,
+    "id": 1235,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
     "image": "https://geo-media.beatsource.com/image_size/1400x1400/1/a/0/1a09b575-4896-46ae-b4fa-ad17d3f5378b.jpg",
     "title": "Ready For Love",
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+  },
+  {
+    "id": 1234,
+    "album": "",
+    "artist": "NewJeans",
+    "duration": "3:00",
+    "image": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg",
+    "title": "Attention",
+    "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Attention.mp3"
+  },
+  {
+    "id": 1233,
+    "album": "",
+    "artist": "NewJeans",
+    "duration": "3:00",
+    "image": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg",
+    "title": "Hype Boy",
+    "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Hype%20Boy.mp3"
+  },
+  {
+    "id": 1232,
+    "album": "",
+    "artist": "NewJeans",
+    "duration": "3:56",
+    "image": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg",
+    "title": "Cookie",
+    "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Cookie.mp3"
+  },
+  {
+    "id": 1231,
+    "album": "",
+    "artist": "NewJeans",
+    "duration": "2:56",
+    "image": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg",
+    "title": "Hurt",
+    "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Hurt.mp3"
   },
   {
     "id": 1230,
@@ -9520,7 +9560,7 @@
     "id": 200,
     "album": "",
     "artist": "NCT",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://media.karousell.com/media/photos/products/2018/03/05/nct_2018_album_po_1520201725_8d593735.jpg",
     "title": "NCT 127 - End To Start",
     "url": "http://docs.google.com/uc?xport=download&id=1Ja1Dm7jYekcfx9wWv7ZD_2Neqg9gf104"
@@ -9529,7 +9569,7 @@
     "id": 199,
     "album": "",
     "artist": "DAY6",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Zombie (English Version)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Zombie%20%28English%20Version%29.mp3"
@@ -9538,7 +9578,7 @@
     "id": 198,
     "album": "",
     "artist": "DAY6",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Zombie",
     "url": "https://ia601505.us.archive.org/31/items/day-6/Day6%20-%20Zombie.mp3"
@@ -9547,7 +9587,7 @@
     "id": 197,
     "album": "",
     "artist": "DAY6",
-    "duration": 255,
+    "duration": "4:15",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Landed",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Landed.mp3"
@@ -9556,7 +9596,7 @@
     "id": 196,
     "album": "",
     "artist": "DAY6",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "So This Is Love",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20So%20This%20Is%20Love.mp3"
@@ -9565,7 +9605,7 @@
     "id": 195,
     "album": "",
     "artist": "DAY6",
-    "duration": 278,
+    "duration": "4:38",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Thanks To (땡스 투)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Thanks%20To.mp3"
@@ -9574,7 +9614,7 @@
     "id": 194,
     "album": "",
     "artist": "DAY6",
-    "duration": 258,
+    "duration": "4:18",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Where The Sea Sleeps (파도가 끝나는 곳까지)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Where%20The%20Sea%20Sleeps.mp3"
@@ -9583,7 +9623,7 @@
     "id": 193,
     "album": "",
     "artist": "DAY6",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Congratulations (Final Version)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Congratulations%20%28Final%20Version%29.mp3"
@@ -9592,7 +9632,7 @@
     "id": 192,
     "album": "",
     "artist": "DAY6",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Letting Go (놓아 놓아 놓아)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Letting%20Go.mp3"
@@ -9601,7 +9641,7 @@
     "id": 191,
     "album": "",
     "artist": "DAY6",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "Sweet Chaos",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20Sweet%20Chaos.mp3"
@@ -9610,7 +9650,7 @@
     "id": 190,
     "album": "",
     "artist": "DAY6",
-    "duration": 283,
+    "duration": "4:43",
     "image": "https://www.generasia.com/w/images/thumb/a/a1/DAY6_-_Stop_The_Rain_promo.jpg/500px-DAY6_-_Stop_The_Rain_promo.jpg",
     "title": "You Were Beautiful (예뻤어)",
     "url": "https://ia601505.us.archive.org/31/items/day-6/DAY6%20-%20You%20Were%20Beautiful.mp3"
@@ -9619,7 +9659,7 @@
     "id": 189,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 194,
+    "duration": "3:14",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Moon (달아)",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2019%20Arrival%20Of%20Everglow/EVERGLOW%20%28에버글로우%29%20-%20Moon%20%28달아%29.mp3"
@@ -9628,7 +9668,7 @@
     "id": 188,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Bon Bon Chocolat (봉봉쇼콜라)",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2019%20Arrival%20Of%20Everglow/EVERGLOW%20%28에버글로우%29%20-%20Bon%20Bon%20Chocolat%20%28봉봉쇼콜라%29.mp3"
@@ -9637,7 +9677,7 @@
     "id": 187,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 275,
+    "duration": "4:35",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "D+1",
     "url": "https://ia601401.us.archive.org/17/items/evrglw/2019%20Arrival%20Of%20Everglow/EVERGLOW%20%28에버글로우%29%20-%20D%2B1.mp3"
@@ -9646,7 +9686,7 @@
     "id": 186,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 164,
+    "duration": "2:44",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Hush",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2019%20Hush/EVERGLOW%20%28에버글로우%29%20-%20Hush.mp3"
@@ -9655,7 +9695,7 @@
     "id": 185,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Adios",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2019%20Hush/EVERGLOW%20%28에버글로우%29%20-%20Adios.mp3"
@@ -9664,7 +9704,7 @@
     "id": 184,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "You Don't Know Me",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2019%20Hush/EVERGLOW%20%28에버글로우%29%20-%20You%20Don%27t%20Know%20Me.mp3"
@@ -9673,7 +9713,7 @@
     "id": 183,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "LA DI DA",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20-77.82X-78.29/EVERGLOW%20%28에버글로우%29%20-%20LA%20DI%20DA.mp3"
@@ -9682,7 +9722,7 @@
     "id": 182,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "UNTOUCHABLE",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20-77.82X-78.29/EVERGLOW%20%28에버글로우%29%20-%20UNTOUCHABLE.mp3"
@@ -9691,7 +9731,7 @@
     "id": 181,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "GxxD BOY",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20-77.82X-78.29/EVERGLOW%20%28에버글로우%29%20-%20GxxD%20BOY.mp3"
@@ -9700,7 +9740,7 @@
     "id": 180,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "NO GOOD REASON",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20-77.82X-78.29/EVERGLOW%20%28에버글로우%29%20-%20NO%20GOOD%20REASON.mp3"
@@ -9709,7 +9749,7 @@
     "id": 179,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "SALUTE",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20reminiscence/EVERGLOW%20%28에버글로우%29%20-%20SALUTE.mp3"
@@ -9718,7 +9758,7 @@
     "id": 178,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "DUN DUN",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20reminiscence/EVERGLOW%20%28에버글로우%29%20-%20DUN%20DUN.mp3"
@@ -9727,7 +9767,7 @@
     "id": 177,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 193,
+    "duration": "3:13",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "PLAYER",
     "url": "https://ia601401.us.archive.org/17/items/evrglw/2020%20reminiscence/EVERGLOW%20%28에버글로우%29%20-%20PLAYER.mp3"
@@ -9736,7 +9776,7 @@
     "id": 176,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "NO LIE",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2020%20reminiscence/EVERGLOW%20%28에버글로우%29%20-%20NO%20LIE.mp3"
@@ -9745,7 +9785,7 @@
     "id": 175,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 212,
+    "duration": "3:32",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "FIRST",
     "url": "https://ia601401.us.archive.org/17/items/evrglw/2021%20Last%20Melody/EVERGLOW%20%28에버글로우%29%20-%20FIRST.mp3"
@@ -9754,7 +9794,7 @@
     "id": 174,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "DON'T ASK DON'T TELL",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2021%20Last%20Melody/EVERGLOW%20%28에버글로우%29%20-%20DON′T%20ASK%20DON′T%20TELL.mp3"
@@ -9763,7 +9803,7 @@
     "id": 173,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "PLEASE PLEASE",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/2021%20Last%20Melody/EVERGLOW%20%28에버글로우%29%20-%20PLEASE%20PLEASE.mp3"
@@ -9772,7 +9812,7 @@
     "id": 172,
     "album": "",
     "artist": "EVERGLOW",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://todaykpop.com/wp-content/uploads/2020/09/1599179732_64_Grup-K-Pop-Ini-Lebih-Populer-Di-Luar-Negeri-Dibandingkan-Di.jpg",
     "title": "Let Me Dance",
     "url": "https://ia801401.us.archive.org/17/items/evrglw/EVERGLOW%20%28에버글로우%29%20-%20Let%20Me%20Dance.mp3"
@@ -9781,7 +9821,7 @@
     "id": 171,
     "album": "",
     "artist": "TXT",
-    "duration": 224,
+    "duration": "3:42",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Crown (어느날 머리에서 뿔이 자랐다)",
     "url": "http://docs.google.com/uc?xport=download&id=1m0msEzTuYU_qqXRvqCTVJApYI5PmpWt4"
@@ -9790,7 +9830,7 @@
     "id": 170,
     "album": "",
     "artist": "TXT",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Drama",
     "url": "http://docs.google.com/uc?xport=download&id=1DcL1wvmCnfhomggLU_1Ot1o_px-38yGK"
@@ -9799,7 +9839,7 @@
     "id": 169,
     "album": "",
     "artist": "TXT",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Eternally",
     "url": "http://docs.google.com/uc?xport=download&id=1tJs0JUnX8korjVCb2or3Pm29hyKkC2Lx"
@@ -9808,7 +9848,7 @@
     "id": 168,
     "album": "",
     "artist": "TXT",
-    "duration": 264,
+    "duration": "4:24",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Fairy Of Shampoo (샴푸의 요정)",
     "url": "http://docs.google.com/uc?xport=download&id=1BzJJjj4aa_5ftvXzadwujNoNTkKF_Rk8"
@@ -9817,7 +9857,7 @@
     "id": 167,
     "album": "",
     "artist": "TXT",
-    "duration": 200,
+    "duration": "3:20",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Magic Island",
     "url": "http://docs.google.com/uc?xport=download&id=1W9M5TjHnXD0zsCzj-I_RoUStV5LhnjXO"
@@ -9826,7 +9866,7 @@
     "id": 166,
     "album": "",
     "artist": "TXT",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Nap Of A Star (별의 낮잠)",
     "url": "http://docs.google.com/uc?xport=download&id=1RpLedYTm3Lk_KMHm36hodwFaIFLAzXWf"
@@ -9835,7 +9875,7 @@
     "id": 165,
     "album": "",
     "artist": "TXT",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Our Summer",
     "url": "http://docs.google.com/uc?xport=download&id=11frRAzpJWGnF61CaVIKfc2RlAl-rNRBK"
@@ -9844,7 +9884,7 @@
     "id": 164,
     "album": "",
     "artist": "TXT",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Poppin' Star",
     "url": "http://docs.google.com/uc?xport=download&id=1WLFFCAgaLBmuBg0mi9sr7ZJATIV2qjR8"
@@ -9853,7 +9893,7 @@
     "id": 163,
     "album": "",
     "artist": "TXT",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Roller Coaster (간지러워)",
     "url": "http://docs.google.com/uc?xport=download&id=1cChHAbjysjdUFX0ExsMYcNzZUzE1FTCx"
@@ -9862,7 +9902,7 @@
     "id": 162,
     "album": "",
     "artist": "TXT",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Blue Hour",
     "url": "http://docs.google.com/uc?xport=download&id=1IJX04AZl6nv4eTvhVU8S9yUn4Obuu8vo"
@@ -9871,7 +9911,7 @@
     "id": 161,
     "album": "",
     "artist": "TXT",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Your Light",
     "url": "http://docs.google.com/uc?xport=download&id=1azQzYbtJ7u4fxtzXnqUW8OnTjCGMJ-wv"
@@ -9880,7 +9920,7 @@
     "id": 160,
     "album": "",
     "artist": "TXT",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Angel Or Devil (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=14H-xGbxpfCQlT6WHBRRB5xDS7HMdSXlr"
@@ -9889,7 +9929,7 @@
     "id": 159,
     "album": "",
     "artist": "TXT",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Crown (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1EcH6qexd1aRlrIIh3sZNfNX5Y66s5XYc"
@@ -9898,7 +9938,7 @@
     "id": 158,
     "album": "",
     "artist": "TXT",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://i.pinimg.com/736x/0e/cd/45/0ecd45321aa7de632845c67e0836040c.jpg",
     "title": "Run Away (Japanese Version)",
     "url": "http://docs.google.com/uc?xport=download&id=1H351bWmKlcpILXe6higTpOpunZcZ_68z"
@@ -9907,7 +9947,7 @@
     "id": 157,
     "album": "",
     "artist": "TWICE",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Be OK",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Be%20OK.mp3"
@@ -9916,7 +9956,7 @@
     "id": 156,
     "album": "",
     "artist": "TWICE",
-    "duration": 217,
+    "duration": "3:37",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Breakthrough",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Breakthrough.mp3"
@@ -9925,7 +9965,7 @@
     "id": 155,
     "album": "",
     "artist": "TWICE",
-    "duration": 223,
+    "duration": "3:43",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Changing!",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Changing.mp3"
@@ -9934,7 +9974,7 @@
     "id": 154,
     "album": "",
     "artist": "TWICE",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "HAPPY HAPPY",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Happy%20Happy.mp3"
@@ -9943,7 +9983,7 @@
     "id": 153,
     "album": "",
     "artist": "TWICE",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "How U Doin'",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20How%20U%20Doin%27.mp3"
@@ -9952,7 +9992,7 @@
     "id": 152,
     "album": "",
     "artist": "TWICE",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "The Reason Why",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20The%20Reason%20Why.mp3"
@@ -9961,7 +10001,7 @@
     "id": 151,
     "album": "",
     "artist": "TWICE",
-    "duration": 178,
+    "duration": "2:58",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "POLISH",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Polish.mp3"
@@ -9970,7 +10010,7 @@
     "id": 150,
     "album": "",
     "artist": "TWICE",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Stronger",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20Stronger.mp3"
@@ -9979,7 +10019,7 @@
     "id": 149,
     "album": "",
     "artist": "TWICE",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "What You Waiting For",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28トゥワイス%29%20-%20What%20You%20Waiting%20For.mp3"
@@ -9988,7 +10028,7 @@
     "id": 148,
     "album": "",
     "artist": "TWICE",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Cheer Up",
     "url": "https://ia601508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20Cheer%20Up.mp3"
@@ -9997,7 +10037,7 @@
     "id": 147,
     "album": "",
     "artist": "TWICE",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "YES or YES",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20YES%20or%20YES.mp3"
@@ -10006,7 +10046,7 @@
     "id": 146,
     "album": "",
     "artist": "TWICE",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Heart Shaker",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20Heart%20Shaker.mp3"
@@ -10015,7 +10055,7 @@
     "id": 145,
     "album": "",
     "artist": "TWICE",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Like Ooh Ahh",
     "url": "https://ia601508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20Like%20Ooh%20Ahh.mp3"
@@ -10024,7 +10064,7 @@
     "id": 144,
     "album": "",
     "artist": "TWICE",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "YOUNG & WILD",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20YOUNG%20%26%20WILD.mp3"
@@ -10033,7 +10073,7 @@
     "id": 143,
     "album": "",
     "artist": "TWICE",
-    "duration": 222,
+    "duration": "3:42",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "SUNSET",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20SUNSET.mp3"
@@ -10042,7 +10082,7 @@
     "id": 142,
     "album": "",
     "artist": "TWICE",
-    "duration": 212,
+    "duration": "3:32",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "SAY YOU LOVE ME",
     "url": "https://ia601508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20SAY%20YOU%20LOVE%20ME.mp3"
@@ -10051,7 +10091,7 @@
     "id": 141,
     "album": "",
     "artist": "TWICE",
-    "duration": 185,
+    "duration": "3:05",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "LALALA",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/Twice%20%28트와이스%29%20-%20LALALA.mp3"
@@ -10060,7 +10100,7 @@
     "id": 140,
     "album": "",
     "artist": "TWICE",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "Feel Special",
     "url": "https://ia801508.us.archive.org/8/items/twcekpop/TWICE%20%28트와이스%29%20–%20Feel%20Special.mp3"
@@ -10069,7 +10109,7 @@
     "id": 139,
     "album": "",
     "artist": "BTS",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Where Did You Come From? (어디에서 왔는지)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20–%20Where%20did%20you%20come%20from%20%28어디에서%20왔는지%29.mp3"
@@ -10078,7 +10118,7 @@
     "id": 138,
     "album": "",
     "artist": "BTS",
-    "duration": 230,
+    "duration": "3:50",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Boy In Luv (상남자)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Boy%20In%20Luv%20%28상남자%29.mp3"
@@ -10087,7 +10127,7 @@
     "id": 137,
     "album": "",
     "artist": "BTS",
-    "duration": 288,
+    "duration": "4:48",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "BTS Cypher Pt. 2: Triptych",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20BTS%20Cypher%20Pt.%202%20Triptych.mp3"
@@ -10096,7 +10136,7 @@
     "id": 136,
     "album": "",
     "artist": "BTS",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "I Like It (Slow Jam Remix) (좋아요)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20I%20Like%20It%20%28Slow%20Jam%20Remix%29%20%28좋아요%29.mp3"
@@ -10105,7 +10145,7 @@
     "id": 135,
     "album": "",
     "artist": "BTS",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Jump",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Jump.mp3"
@@ -10114,7 +10154,7 @@
     "id": 134,
     "album": "",
     "artist": "BTS",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Miss Right",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Miss%20Right.mp3"
@@ -10123,7 +10163,7 @@
     "id": 133,
     "album": "",
     "artist": "BTS",
-    "duration": 115,
+    "duration": "1:55",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Outro: Propose",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Propose.mp3"
@@ -10132,7 +10172,7 @@
     "id": 132,
     "album": "",
     "artist": "BTS",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Spine Breaker (등골브레이커)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Spine%20Breaker%20%28등골브레이커%29.mp3"
@@ -10141,7 +10181,7 @@
     "id": 131,
     "album": "",
     "artist": "BTS",
-    "duration": 262,
+    "duration": "4:22",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Tomorrow",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Tomorrow.mp3"
@@ -10150,7 +10190,7 @@
     "id": 130,
     "album": "",
     "artist": "BTS",
-    "duration": 239,
+    "duration": "3:59",
     "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
     "title": "Just One Day (하루만)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20–%20Just%20One%20Day%20%28하루만%29.mp3"
@@ -10159,7 +10199,7 @@
     "id": 129,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 193,
+    "duration": "3:13",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "BOOMBAYAH (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20–%20BOOMBAYAH%20%28Japanese%20Ver.%29.mp3"
@@ -10168,7 +10208,7 @@
     "id": 128,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "WHISTLE (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20–%20WHISTLE%20%28Japanese%20Ver.%29.mp3"
@@ -10177,7 +10217,7 @@
     "id": 127,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "PLAYING WITH FIRE (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20–%20Playing%20With%20Fire%20%28Japanese%20Ver.%29.mp3"
@@ -10186,7 +10226,7 @@
     "id": 126,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "STAY (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20–%20STAY%20%28Japanese%20Ver.%29.mp3"
@@ -10195,7 +10235,7 @@
     "id": 125,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "AS IF IT'S YOUR LAST (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20-%20As%20If%20It%27s%20Your%20Last%20%28Japanese%20ver.%29.mp3"
@@ -10204,7 +10244,7 @@
     "id": 124,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "WHISTLE (Acoustic Ver.)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2017%20BLACKPINK/BLACKPINK%20–%20WHISTLE%20%28Acoustic%20Ver.%29%20%28Japanese%20Ver.%29.mp3"
@@ -10213,7 +10253,7 @@
     "id": 123,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "DDU-DU DDU-DU (뚜두뚜두)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20Square%20Up/BLACKPINK%20-%20DDU-DU%20DDU-DU%20%28뚜두뚜두%29.mp3"
@@ -10222,7 +10262,7 @@
     "id": 122,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "Forever Young",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20Square%20Up/BLACKPINK%20-%20FOREVER%20YOUNG.mp3"
@@ -10231,7 +10271,7 @@
     "id": 121,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "Really",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20Square%20Up/BLACKPINK%20-%20Really.mp3"
@@ -10240,7 +10280,7 @@
     "id": 120,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "See U Later",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20Square%20Up/BLACKPINK%20-%20See%20U%20Later.mp3"
@@ -10249,7 +10289,7 @@
     "id": 119,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "FOREVER YOUNG (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20BLACKPINK%20IN%20YOUR%20AREA/BLACKPINK%20-%20FOREVER%20YOUNG%20%28Japanese%20Version%29.mp3"
@@ -10258,7 +10298,7 @@
     "id": 118,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 197,
+    "duration": "3:17",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "REALLY (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20BLACKPINK%20IN%20YOUR%20AREA/BLACKPINK%20–%20REALLY%20%28Japanese%20Version%29.mp3"
@@ -10267,7 +10307,7 @@
     "id": 117,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 199,
+    "duration": "3:19",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "SEE U LATER (Japanese Version)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/2018%20BLACKPINK%20IN%20YOUR%20AREA/BLACKPINK%20-%20SEE%20U%20LATER%20%28Japanese%20Version%29.mp3"
@@ -10276,7 +10316,7 @@
     "id": 116,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "As If It's Your Last (마지막처럼)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20AS%20IF%20IT%27S%20YOUR%20LAST%20%28마지막처럼%29.mp3"
@@ -10285,7 +10325,7 @@
     "id": 115,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 145,
+    "duration": "2:25",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "So Hot (THEBLACKLABEL Remix)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20So%20Hot%20%28THEBLACKLABEL%20Remix%29.mp3"
@@ -10294,7 +10334,7 @@
     "id": 114,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 167,
+    "duration": "2:47",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "SOLO",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20Solo.mp3"
@@ -10303,7 +10343,7 @@
     "id": 113,
     "album": "",
     "artist": "BLACKPINK",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Blackpink_-_EP.jpg/600px-Blackpink_-_EP.jpg",
     "title": "Kiss And Make Up (feat Dua Lipa)",
     "url": "https://ia601509.us.archive.org/18/items/blckpnkalbm/BLACKPINK%20-%20Kiss%20And%20Make%20Up%20%28ft%20Dua%20Lipa%29.mp3"
@@ -10312,7 +10352,7 @@
     "id": 112,
     "album": "",
     "artist": "NiziU",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Make You Happy",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/Make%20You%20Happy/NiziU%20%28니쥬%29%20-%20Make%20You%20Happy.mp3"
@@ -10321,7 +10361,7 @@
     "id": 111,
     "album": "",
     "artist": "NiziU",
-    "duration": 159,
+    "duration": "2:39",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Baby I'm A Star",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/Make%20You%20Happy/Baby%20I%27m%20A%20Star.mp3"
@@ -10330,7 +10370,7 @@
     "id": 110,
     "album": "",
     "artist": "NiziU",
-    "duration": 201,
+    "duration": "3:21",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Boom Boom Boom",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/Make%20You%20Happy/Boom%20Boom%20Boom.mp3"
@@ -10339,7 +10379,7 @@
     "id": 109,
     "album": "",
     "artist": "NiziU",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Beyond The Rainbow (虹の向こうへ)",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/Make%20You%20Happy/Beyond%20The%20Rainbow%20%28虹の向こうへ%29.mp3"
@@ -10348,7 +10388,7 @@
     "id": 108,
     "album": "",
     "artist": "NiziU",
-    "duration": 187,
+    "duration": "3:07",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Make You Happy (Korean Version)",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/NiziU%20%28니쥬%29%20-%20Make%20You%20Happy%20%28Korean%20Version%29.mp3"
@@ -10357,7 +10397,7 @@
     "id": 107,
     "album": "",
     "artist": "NiziU",
-    "duration": 192,
+    "duration": "3:12",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Poppin' Shakin'",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/NiziU%20%28니쥬%29%20-%20Poppin%27%20Shakin%27.mp3"
@@ -10366,7 +10406,7 @@
     "id": 106,
     "album": "",
     "artist": "NiziU",
-    "duration": 181,
+    "duration": "3:01",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Take A Picture",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/NiziU%20%28니쥬%29%20-%20Take%20A%20Picture.mp3"
@@ -10375,7 +10415,7 @@
     "id": 105,
     "album": "",
     "artist": "NiziU",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg",
     "title": "Step And A Step",
     "url": "https://ia801407.us.archive.org/3/items/niziyu/NiziU%28니쥬%29%20-%20Step%20and%20a%20step.mp3"
@@ -10384,7 +10424,7 @@
     "id": 104,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 173,
+    "duration": "2:53",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Bara Bam (바라밤)",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%20%28오마이걸%29%20-%20Bara%20Bam%20%28바라밤%29.mp3"
@@ -10393,7 +10433,7 @@
     "id": 103,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 258,
+    "duration": "4:18",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Flower Tea (꽃차)",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%20%28오마이걸%29%20-%20Flower%20Tea%20%28꽃차%29.mp3"
@@ -10402,7 +10442,7 @@
     "id": 102,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 178,
+    "duration": "2:58",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "SUPADUPA (천천히 해봐)",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%20%28오마이걸%29%20-%20SUPADUPA%20%28천천히%20해봐%29.mp3"
@@ -10411,7 +10451,7 @@
     "id": 101,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 155,
+    "duration": "2:35",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Dolphin",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%28오마이걸%29%20-%20Dolphin.mp3"
@@ -10420,7 +10460,7 @@
     "id": 100,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Krystal",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%28오마이걸%29%20-%20Krystal.mp3"
@@ -10429,7 +10469,7 @@
     "id": 99,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Neon",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%28오마이걸%29%20-%20Neon.mp3"
@@ -10438,7 +10478,7 @@
     "id": 98,
     "album": "",
     "artist": "Oh My Girl",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://www.generasia.com/w/images/thumb/a/a8/OH_MY_GIRL_-_Eternally_lim_B.jpg/300px-OH_MY_GIRL_-_Eternally_lim_B.jpg",
     "title": "Nonstop (살짝 설렜어)",
     "url": "https://ia601408.us.archive.org/10/items/Oemge/OH%20MY%20GIRL%28오마이걸%29%20-%20Nonstop%20%28살짝%20설렜어%29.mp3"
@@ -10447,7 +10487,7 @@
     "id": 97,
     "album": "",
     "artist": "BTS",
-    "duration": 345,
+    "duration": "5:45",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Wake Up",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Wake%20Up%20%28Audio%29.mp3"
@@ -10456,7 +10496,7 @@
     "id": 96,
     "album": "",
     "artist": "BTS",
-    "duration": 257,
+    "duration": "4:17",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "The Stars",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20The%20Stars%20%28Audio%29.mp3"
@@ -10465,7 +10505,7 @@
     "id": 95,
     "album": "",
     "artist": "BTS",
-    "duration": 97,
+    "duration": "1:37",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Outro",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Outro%20%28Audio%29.mp3"
@@ -10474,7 +10514,7 @@
     "id": 94,
     "album": "",
     "artist": "BTS",
-    "duration": 228,
+    "duration": "3:48",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "No More Dream (Japanese Version)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20No%20More%20Dream%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10483,7 +10523,7 @@
     "id": 93,
     "album": "",
     "artist": "BTS",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "N.O (Japanese Version)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20N.O%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10492,7 +10532,7 @@
     "id": 92,
     "album": "",
     "artist": "BTS",
-    "duration": 240,
+    "duration": "4:00",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Just One Day (Japanese Version)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Just%20One%20Day%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10501,7 +10541,7 @@
     "id": 91,
     "album": "",
     "artist": "BTS",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Jump (Japanese Version)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Jump%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10510,7 +10550,7 @@
     "id": 90,
     "album": "",
     "artist": "BTS",
-    "duration": 75,
+    "duration": "1:15",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Intro",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Intro%20%28Audio%29.mp3"
@@ -10519,7 +10559,7 @@
     "id": 89,
     "album": "",
     "artist": "BTS",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "I Like It Pt. 2 ~In That Place~",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20I%20Like%20It%21%20Pt.%202%20-%20In%20That%20Place%20%28Audio%29.mp3"
@@ -10528,7 +10568,7 @@
     "id": 88,
     "album": "",
     "artist": "BTS",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "I Like It (いいね!)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20I%20Like%20It%21%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10537,7 +10577,7 @@
     "id": 87,
     "album": "",
     "artist": "BTS",
-    "duration": 248,
+    "duration": "4:08",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Danger (Japanese Version)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Danger%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10546,7 +10586,7 @@
     "id": 86,
     "album": "",
     "artist": "BTS",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Boy In Luv (Japanese Version)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Boy%20in%20Luv%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10555,7 +10595,7 @@
     "id": 85,
     "album": "",
     "artist": "BTS",
-    "duration": 248,
+    "duration": "4:08",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
     "title": "Attack Of Bangtan (進撃の防弾)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/Bts%20-%20Attack%20on%20Bangtan%20The%20Rise%20of%20Bangtan%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
@@ -10564,7 +10604,7 @@
     "id": 84,
     "album": "",
     "artist": "SF9",
-    "duration": 232,
+    "duration": "3:52",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "title": "Good Guy",
     "url": "https://ia601405.us.archive.org/29/items/sf9kpop/SF9%20-%20Good%20Guy.mp3"
@@ -10573,7 +10613,7 @@
     "id": 83,
     "album": "",
     "artist": "SF9",
-    "duration": 208,
+    "duration": "3:28",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "title": "Photograph",
     "url": "https://ia601405.us.archive.org/29/items/sf9kpop/SF9%20-%20Photograph.mp3"
@@ -10582,7 +10622,7 @@
     "id": 82,
     "album": "",
     "artist": "SF9",
-    "duration": 215,
+    "duration": "3:35",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "title": "Shadow",
     "url": "https://ia601405.us.archive.org/29/items/sf9kpop/SF9%20-%20Shadow.mp3"
@@ -10591,7 +10631,7 @@
     "id": 81,
     "album": "",
     "artist": "SF9",
-    "duration": 231,
+    "duration": "3:51",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "title": "Shine Together",
     "url": "https://ia601405.us.archive.org/29/items/sf9kpop/SF9%20-%20Shine%20Together.mp3"
@@ -10600,7 +10640,7 @@
     "id": 80,
     "album": "",
     "artist": "SF9",
-    "duration": 213,
+    "duration": "3:33",
     "image": "https://www.generasia.com/w/images/thumb/b/bb/SF9_-_RPM_promo.jpg/300px-SF9_-_RPM_promo.jpg",
     "title": "Summer Breeze (여름 향기가 날 춤추게 해)",
     "url": "https://ia601405.us.archive.org/29/items/sf9kpop/SF9%20-%20Summer%20Breeze%20%28여름%20향기가%20날%20춤추게%20해%29.mp3"
@@ -10609,7 +10649,7 @@
     "id": 79,
     "album": "",
     "artist": "Super Junior",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "I Think I",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20%20I%20Think%20I.mp3"
@@ -10618,7 +10658,7 @@
     "id": 78,
     "album": "",
     "artist": "Super Junior",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Ai Ga Oshiete Kureta Koto (愛が教えてくれたこと)",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20Ai%20Ga%20Oshiete%20Kureta%20Koto%20%28愛が教えてくれたこと%29.mp3"
@@ -10627,7 +10667,7 @@
     "id": 77,
     "album": "",
     "artist": "Super Junior",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "BLUE",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20Blue.mp3"
@@ -10636,7 +10676,7 @@
     "id": 76,
     "album": "",
     "artist": "Super Junior",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "I Think I (Japanese Version)",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20I%20Think%20I%20%28Japan%20Ver.%29.mp3"
@@ -10645,7 +10685,7 @@
     "id": 75,
     "album": "",
     "artist": "Super Junior",
-    "duration": 211,
+    "duration": "3:31",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "SUPER Clap",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20SUPER%20Clap.mp3"
@@ -10654,7 +10694,7 @@
     "id": 74,
     "album": "",
     "artist": "Super Junior",
-    "duration": 202,
+    "duration": "3:22",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Spotlight",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20-%20Spotlight.mp3"
@@ -10663,7 +10703,7 @@
     "id": 73,
     "album": "",
     "artist": "Super Junior",
-    "duration": 191,
+    "duration": "3:11",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "The Melody (우리에게)",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/SUPER%20JUNIOR%20%28슈퍼주니어%29%20–%20The%20Melody%20%28우리에게%29.mp3"
@@ -10672,7 +10712,7 @@
     "id": 72,
     "album": "",
     "artist": "Super Junior",
-    "duration": 190,
+    "duration": "3:10",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Fly To The Moon",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/Super%20Junior%20-%20Fly%20To%20The%20Moon.mp3"
@@ -10681,7 +10721,7 @@
     "id": 71,
     "album": "",
     "artist": "Super Junior",
-    "duration": 205,
+    "duration": "3:25",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Burn The Floor",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Burn%20The%20Floor.mp3"
@@ -10690,7 +10730,7 @@
     "id": 70,
     "album": "",
     "artist": "Super Junior",
-    "duration": 209,
+    "duration": "3:29",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Closer",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Closer.mp3"
@@ -10699,7 +10739,7 @@
     "id": 69,
     "album": "",
     "artist": "Super Junior",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "House Party",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20House%20Party.mp3"
@@ -10708,7 +10748,7 @@
     "id": 68,
     "album": "",
     "artist": "Super Junior",
-    "duration": 253,
+    "duration": "4:13",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "More Days With You (같이 걸을까)",
     "url": "https://ia601500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20More%20Days%20with%20You%20%28같이%20걸을까%29.mp3"
@@ -10717,7 +10757,7 @@
     "id": 67,
     "album": "",
     "artist": "Super Junior",
-    "duration": 177,
+    "duration": "2:57",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Mystery",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Mystery.mp3"
@@ -10726,7 +10766,7 @@
     "id": 66,
     "album": "",
     "artist": "Super Junior",
-    "duration": 259,
+    "duration": "4:19",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "No Other (너 같은 사람 또 없어)",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20No%20Other%20%28너%20같은%20사람%20또%20없어%29.mp3"
@@ -10735,7 +10775,7 @@
     "id": 65,
     "album": "",
     "artist": "Super Junior",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Paradox",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Paradox.mp3"
@@ -10744,7 +10784,7 @@
     "id": 64,
     "album": "",
     "artist": "Super Junior",
-    "duration": 195,
+    "duration": "3:15",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Raining Spell For Love (사랑이 멎지 않게) (Remake Version)",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Raining%20Spell%20For%20Love%20%28사랑이%20멎지%20않게%29%20%28Remake%20Version%29.mp3"
@@ -10753,7 +10793,7 @@
     "id": 63,
     "album": "",
     "artist": "Super Junior",
-    "duration": 90,
+    "duration": "1:30",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "SUPER",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20SUPER.mp3"
@@ -10762,7 +10802,7 @@
     "id": 62,
     "album": "",
     "artist": "Super Junior",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Sorry, Sorry",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Sorry%2C%20Sorry.mp3"
@@ -10771,7 +10811,7 @@
     "id": 61,
     "album": "",
     "artist": "Super Junior",
-    "duration": 168,
+    "duration": "2:48",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Star",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Star.mp3"
@@ -10780,7 +10820,7 @@
     "id": 60,
     "album": "",
     "artist": "Super Junior",
-    "duration": 189,
+    "duration": "3:09",
     "image": "https://www.generasia.com/w/images/thumb/1/14/Super_Junior_-_TIMELINE_promo.jpg/550px-Super_Junior_-_TIMELINE_promo.jpg",
     "title": "Tell Me Baby (하얀 거짓말)",
     "url": "https://ia801500.us.archive.org/31/items/sujukpop/Super%20Junior%20–%20Tell%20Me%20Baby%20%28하얀%20거짓말%29.mp3"
@@ -10789,7 +10829,7 @@
     "id": 59,
     "album": "",
     "artist": "BTS",
-    "duration": 245,
+    "duration": "4:05",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Danger",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Danger.mp3"
@@ -10798,7 +10838,7 @@
     "id": 58,
     "album": "",
     "artist": "BTS",
-    "duration": 257,
+    "duration": "4:17",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Hip Hop Lover (힙합성애자)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Hip%20Hop%20Lover%20%28힙합성애자%29.mp3"
@@ -10807,7 +10847,7 @@
     "id": 57,
     "album": "",
     "artist": "BTS",
-    "duration": 41,
+    "duration": "0:41",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Interlude: What Are You Doing?",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Interlude%20_%20뭐해.mp3"
@@ -10816,7 +10856,7 @@
     "id": 56,
     "album": "",
     "artist": "BTS",
-    "duration": 165,
+    "duration": "2:45",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "What Am I To You",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Intro%20_%20What%20Am%20I%20To%20You.mp3"
@@ -10825,7 +10865,7 @@
     "id": 55,
     "album": "",
     "artist": "BTS",
-    "duration": 255,
+    "duration": "4:15",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Let Me Know",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Let%20Me%20Know.mp3"
@@ -10834,7 +10874,7 @@
     "id": 54,
     "album": "",
     "artist": "BTS",
-    "duration": 218,
+    "duration": "3:38",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Look Here (여기 봐)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Look%20Here%20%28여기%20봐%29.mp3"
@@ -10843,7 +10883,7 @@
     "id": 53,
     "album": "",
     "artist": "BTS",
-    "duration": 172,
+    "duration": "3:52",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Does That Make Sense? (Outro)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Outro%20_%20그게%20말이%20돼_.mp3"
@@ -10852,7 +10892,7 @@
     "id": 52,
     "album": "",
     "artist": "BTS",
-    "duration": 264,
+    "duration": "4:24",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Rain",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Rain.mp3"
@@ -10861,7 +10901,7 @@
     "id": 51,
     "album": "",
     "artist": "BTS",
-    "duration": 265,
+    "duration": "4:25",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "War Of Hormone (호르몬 전쟁)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/War%20Of%20Hormone%20%28호르몬%20전쟁%29.mp3"
@@ -10870,7 +10910,7 @@
     "id": 50,
     "album": "",
     "artist": "BTS",
-    "duration": 235,
+    "duration": "3:55",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "2nd Grade (2학년)",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/2nd%20Grade%20%282학년%29.mp3"
@@ -10879,7 +10919,7 @@
     "id": 49,
     "album": "",
     "artist": "BTS",
-    "duration": 241,
+    "duration": "4:01",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Blanket Kick (이불킥)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Blanket%20Kick%20%28이불킥%29.mp3"
@@ -10888,7 +10928,7 @@
     "id": 48,
     "album": "",
     "artist": "BTS",
-    "duration": 267,
+    "duration": "4:27",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "BTS Cypher Pt. 3: Killer",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/BTS%20Cypher%20PT.3%20_%20KILLER%20%28Feat.%20Supreme%20Boi%29.mp3"
@@ -10897,7 +10937,7 @@
     "id": 47,
     "album": "",
     "artist": "BTS",
-    "duration": 234,
+    "duration": "3:54",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "Can You Turn Off Your Cellphone?",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Can%20You%20Turn%20Off%20Your%20Cellphone%20%28핸드폰%20좀%20꺼줄래%29.mp3"
@@ -10906,7 +10946,7 @@
     "id": 46,
     "album": "",
     "artist": "BTS",
-    "duration": 225,
+    "duration": "4:45",
     "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
     "title": "24/7=Heaven",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/24-7%3DHeaven.mp3"
@@ -11131,7 +11171,7 @@
     "id": 21,
     "album": "",
     "artist": "SEVENTEEN",
-    "duration": 207,
+    "duration": "3:27",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg",
     "title": "Pretty U (예쁘다)",
     "url": "https://ia801401.us.archive.org/11/items/svntnkpop/%5B2016%5D%20Love%20%26%20Letter/SEVENTEEN%20-%20Pretty%20U%20%28예쁘다%29.mp3"
@@ -11140,7 +11180,7 @@
     "id": 20,
     "album": "",
     "artist": "SEVENTEEN",
-    "duration": 185,
+    "duration": "3:05",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg",
     "title": "Adore U (아낀다)",
     "url": "https://ia801401.us.archive.org/11/items/svntnkpop/%5B2015%5D%2017%20Carat/SEVENTEEN%20-%20Adore%20U%20%28아낀다%29.mp3"
@@ -11149,7 +11189,7 @@
     "id": 19,
     "album": "",
     "artist": "SEVENTEEN",
-    "duration": 167,
+    "duration": "2:47",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg",
     "title": "Clap (박수)",
     "url": "https://ia801401.us.archive.org/11/items/svntnkpop/%5B2017%5D%20Teen%2C%20Age/SEVENTEEN%20-%20Clap%20%28박수%29.mp3"
@@ -11158,7 +11198,7 @@
     "id": 18,
     "album": "",
     "artist": "SEVENTEEN",
-    "duration": 203,
+    "duration": "3:23",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seventeen_continues_to_Rise.jpg",
     "title": "Home",
     "url": "https://ia801401.us.archive.org/11/items/svntnkpop/%5B2019%5D%20You%20Made%20My%20Dawn/SEVENTEEN%20-%20Home.mp3"
@@ -11167,7 +11207,7 @@
     "id": 17,
     "album": "",
     "artist": "BTS",
-    "duration": 242,
+    "duration": "4:02",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Dope (쩔어)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/BTS%20%28%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29%20-%20Dope%20%28%EC%A9%94%EC%96%B4%29.mp3"
@@ -11176,7 +11216,7 @@
     "id": 16,
     "album": "",
     "artist": "BTS",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "I Need U",
     "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/BTS%20%28%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29%20-%20I%20Need%20You.mp3"
@@ -11185,7 +11225,7 @@
     "id": 15,
     "album": "",
     "artist": "BTS",
-    "duration": 210,
+    "duration": "3:30",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Converse High",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Converse%20High.mp3"
@@ -11194,7 +11234,7 @@
     "id": 14,
     "album": "",
     "artist": "BTS",
-    "duration": 244,
+    "duration": "4:04",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Fun Boys (흥탄소년단)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Fun%20Boys%20%28%ED%9D%A5%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29.mp3"
@@ -11203,7 +11243,7 @@
     "id": 13,
     "album": "",
     "artist": "BTS",
-    "duration": 123,
+    "duration": "2:03",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Intro: The Most Beautiful Moment In Life (화양연화)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Intro%20_%20%ED%99%94%EC%96%91%EC%97%B0%ED%99%94.mp3"
@@ -11212,7 +11252,7 @@
     "id": 12,
     "album": "",
     "artist": "BTS",
-    "duration": 292,
+    "duration": "4:52",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Move (이사)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Move%20%28%EC%9D%B4%EC%82%AC%29.mp3"
@@ -11221,7 +11261,7 @@
     "id": 11,
     "album": "",
     "artist": "BTS",
-    "duration": 143,
+    "duration": "2:23",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Outro: Love Is Not Over",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Outro%20_%20Love%20is%20Not%20Over.mp3"
@@ -11230,7 +11270,7 @@
     "id": 10,
     "album": "",
     "artist": "BTS",
-    "duration": 275,
+    "duration": "4:35",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Hold Me Tight (잡아줘)",
     "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/%EC%9E%A1%EC%95%84%EC%A4%98%20%28Hold%20Me%20Tight%29.mp3"
@@ -11239,7 +11279,7 @@
     "id": 9,
     "album": "",
     "artist": "GFriend",
-    "duration": 220,
+    "duration": "3:40",
     "image": "https://6.viki.io/image/8c6fef7d21524a7eb5d8e000098c78d6.jpeg",
     "title": "Me Gustas Tu",
     "url": "https://ia601404.us.archive.org/29/items/g-frnd/GFriend%20-%20Me%20Gustas%20Tu.mp3"
@@ -11248,7 +11288,7 @@
     "id": 8,
     "album": "",
     "artist": "BTS",
-    "duration": 237,
+    "duration": "3:57",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Run",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/BTS%20%28방탄소년단%29%20-%20Run.mp3"
@@ -11257,7 +11297,7 @@
     "id": 7,
     "album": "",
     "artist": "BTS",
-    "duration": 267,
+    "duration": "4:27",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Dead Leaves (고엽)",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Dead%20Leaves%20%28고엽%29.mp3"
@@ -11266,7 +11306,7 @@
     "id": 6,
     "album": "",
     "artist": "BTS",
-    "duration": 255,
+    "duration": "4:15",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Ma City",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Ma%20City.mp3"
@@ -11275,7 +11315,7 @@
     "id": 5,
     "album": "",
     "artist": "BTS",
-    "duration": 177,
+    "duration": "2:57",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Outro: House Of Cards",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/OUTRO%20_%20House%20Of%20Cards.mp3"
@@ -11284,7 +11324,7 @@
     "id": 4,
     "album": "",
     "artist": "BTS",
-    "duration": 233,
+    "duration": "3:53",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Silver Spoon (뱁새",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Silver%20Spoon%20%28뱁새%29.mp3"
@@ -11293,7 +11333,7 @@
     "id": 3,
     "album": "",
     "artist": "BTS",
-    "duration": 243,
+    "duration": "4:03",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Whalien 52",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Whalien%2052.mp3"
@@ -11302,7 +11342,7 @@
     "id": 2,
     "album": "",
     "artist": "BTS",
-    "duration": 238,
+    "duration": "3:58",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Butterfly",
     "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/BTS%20%28방탄소년단%29%20-%20Butterfly.mp3"
@@ -11311,7 +11351,7 @@
     "id": 1,
     "album": "",
     "artist": "BTS",
-    "duration": 135,
+    "duration": "2:15",
     "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
     "title": "Intro: Never Mind",
     "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/INTRO%20_%20Never%20Mind.mp3"

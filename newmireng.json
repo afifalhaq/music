@@ -242,7 +242,7 @@
   
   "DATA": [
   {
-    "id": 1235,
+    "id": 1242,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
@@ -251,7 +251,7 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
   },
   {
-    "id": 1234,
+    "id": 1241,
     "album": "",
     "artist": "NewJeans",
     "duration": "3:00",
@@ -260,7 +260,7 @@
     "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Attention.mp3"
   },
   {
-    "id": 1233,
+    "id": 1240,
     "album": "",
     "artist": "NewJeans",
     "duration": "3:00",
@@ -269,7 +269,7 @@
     "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Hype%20Boy.mp3"
   },
   {
-    "id": 1232,
+    "id": 1239,
     "album": "",
     "artist": "NewJeans",
     "duration": "3:56",
@@ -278,13 +278,76 @@
     "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Cookie.mp3"
   },
   {
-    "id": 1231,
+    "id": 1238,
     "album": "",
     "artist": "NewJeans",
     "duration": "2:56",
     "image": "https://www.azlyrics.com/images/albums/110/2399a6781a9c837bc46c60ee2401fd17.jpg",
     "title": "Hurt",
     "url": "https://ia802507.us.archive.org/8/items/nwjns/NewJeans%20-%20Hurt.mp3"
+  },
+  {
+    "id": 1237,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "1:18",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "PROPAGANDA",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20PROPAGANDA.mp3"
+  },
+  {
+    "id": 1236,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "3:03",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "Sector 1",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20Sector%201.mp3"
+  },
+  {
+    "id": 1235,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "3:44",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "Cyberpunk",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20Cyberpunk.mp3"
+  },
+  {
+    "id": 1234,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "3:28",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "Guerrilla",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20Guerrilla.mp3"
+  },
+  {
+    "id": 1233,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "4:00",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "The Ring",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20The%20Ring.mp3"
+  },
+  {
+    "id": 1232,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "3:14",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "WDIG (Where Do I Go)",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20WDIG.mp3"
+  },
+  {
+    "id": 1231,
+    "album": "",
+    "artist": "ATEEZ",
+    "duration": "3:37",
+    "image": "https://pm1.narvii.com/7121/a9ec1c9d0335f3aa6f4876411f31541d81970b2er1-1280-1080v2_hq.jpg",
+    "title": "New World",
+    "url": "https://ia904505.us.archive.org/31/items/atezkpop/%5B2022%5D%20MOVEMENT/ATEEZ%20-%20New%20World.mp3"
   },
   {
     "id": 1230,

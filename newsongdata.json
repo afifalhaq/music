@@ -1,0 +1,334 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "native_ads": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "backup_native_ads": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "show_protect": "0",
+      "key_license": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "DATA": [
+    {
+      "id": 1,
+      "album": "",
+      "artist": "BTS",
+      "duration": "3:25",
+      "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+      "title": "RUN",
+      "url": "file:///android_asset/bts_run.mp3"
+    },
+    {
+      "id": 2,
+      "album": "",
+      "artist": "BTS",
+      "duration": "3:15",
+      "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+      "title": "Yet To Come",
+      "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/BTS%20-%20Yet%20To%20Come.mp3"
+    },
+    {
+      "id": 3,
+      "album": "",
+      "artist": "BTS",
+      "duration": "3:05",
+      "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+      "title": "Savage Love",
+      "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/BTS%20-%20Savage%20Love.mp3"
+    },
+    {
+      "id": 4,
+      "album": "",
+      "artist": "aespa",
+      "duration": "2:58",
+      "image": "https://cornytube.com/wp-content/uploads/2021/02/Aespa-Members-Tour-Information-Facts-Music-Info-Interesting-Trivia.jpg",
+      "title": "Life's Too Short (English Version)",
+      "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20-%20Life%27s%20Too%20Short%20%28English%20Ver.%29.mp3"
+    },
+    {
+      "id": 5,
+      "album": "",
+      "artist": "aespa",
+      "duration": "3:15",
+      "image": "https://cornytube.com/wp-content/uploads/2021/02/Aespa-Members-Tour-Information-Facts-Music-Info-Interesting-Trivia.jpg",
+      "title": "Illusion",
+      "url": "https://ia804504.us.archive.org/28/items/espkpop/aespa%20-%20Illusion.mp3"
+    },
+    {
+      "id": 6,
+      "album": "",
+      "artist": "aespa",
+      "duration": "2:57",
+      "image": "https://cornytube.com/wp-content/uploads/2021/02/Aespa-Members-Tour-Information-Facts-Music-Info-Interesting-Trivia.jpg",
+      "title": "ZOO",
+      "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20ft%20NCT%20-%20Zoo.mp3"
+    },
+    {
+      "id": 7,
+      "album": "",
+      "artist": "Stray Kids",
+      "duration": "3:14",
+      "image": "https://i.pinimg.com/736x/b9/93/68/b9936851add351f4b20d53152aac2b80.jpg",
+      "title": "CIRCUS",
+      "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20CIRCUS.mp3"
+    },
+    {
+      "id": 8,
+      "album": "",
+      "artist": "Stray Kids",
+      "duration": "3:15",
+      "image": "https://i.pinimg.com/736x/b9/93/68/b9936851add351f4b20d53152aac2b80.jpg",
+      "title": "VENOM",
+      "url": "https://ia902304.us.archive.org/23/items/straykidskpop/Stray%20Kids%20-%20VENOM.mp3"
+    },
+    {
+      "id": 9,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:34",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": "RUN2U",
+      "url": "https://ia601506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20RUN2U.mp3"
+    },
+    {
+      "id": 10,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:01",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": "SAME SAME",
+      "url": "https://ia601506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20SAME%20SAME.mp3"
+    },
+    {
+      "id": 11,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:11",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": 247,
+      "url": "https://ia801506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20247.mp3"
+    },
+    {
+      "id": 12,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:25",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": "YOUNG LUV",
+      "url": "https://ia801506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20YOUNG%20LUV.mp3"
+    },
+    {
+      "id": 13,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:27",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": "BUTTERFLY",
+      "url": "https://ia601506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20BUTTERFLY.mp3"
+    },
+    {
+      "id": 14,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "4:34",
+      "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
+      "title": "I WANT YOU BABY",
+      "url": "https://ia601506.us.archive.org/23/items/sty-c/YOUNG-LUV.COM/STAYC%20-%20I%20WANT%20U%20BABY.mp3"
+    },
+    {
+      "id": 15,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:31",
+      "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg",
+      "title": "SO BAD",
+      "url": "https://ia801506.us.archive.org/23/items/sty-c/Star%20To%20A%20Young%20Culture/STAYC%20-%20SO%20BAD.mp3"
+    },
+    {
+      "id": 16,
+      "album": "",
+      "artist": "STAYC",
+      "duration": "3:05",
+      "image": "https://6.viki.io/image/46e65a881e8b41f88f4ff59ac72af4bc.jpeg",
+      "title": "LIKE THIS",
+      "url": "https://ia801506.us.archive.org/23/items/sty-c/Star%20To%20A%20Young%20Culture/STAYC%20-%20LIKE%20THIS.mp3"
+    },
+    {
+      "id": 17,
+      "album": "",
+      "artist": "TREASURE",
+      "duration": "3:04",
+      "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
+      "title": "JIKJIN (직진)",
+      "url": "https://ia601504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20JIKJIN.mp3"
+    },
+    {
+      "id": 18,
+      "album": "",
+      "artist": "TREASURE",
+      "duration": "2:48",
+      "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
+      "title": "U",
+      "url": "https://ia801504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20U.mp3"
+    },
+    {
+      "id": 19,
+      "album": "",
+      "artist": "TREASURE",
+      "duration": "3:40",
+      "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
+      "title": "DARARI (다라리)",
+      "url": "https://ia801504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20DARARI.mp3"
+    },
+    {
+      "id": 20,
+      "album": "",
+      "artist": "TREASURE",
+      "duration": "3:40",
+      "image": "https://0.soompi.io/wp-content/uploads/2021/01/30085749/TREASURE-31.jpg",
+      "title": "IT'S OKAY (괜찮아질 거야)",
+      "url": "https://ia601504.us.archive.org/13/items/tr-sr/THE%20SECOND%20STEP%20%20CHAPTER%20ONE/TREASURE%20-%20IT%27S%20OKAY.mp3"
+    },
+    {
+      "id": 21,
+      "album": "",
+      "artist": "IVE",
+      "duration": "2:58",
+      "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
+      "title": "ELEVEN",
+      "url": "https://ia601507.us.archive.org/16/items/ivekpop/IVE%20-%20ELEVEN.mp3"
+    },
+    {
+      "id": 22,
+      "album": "",
+      "artist": "IVE",
+      "duration": "3:25",
+      "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
+      "title": "Take It",
+      "url": "https://ia801507.us.archive.org/16/items/ivekpop/IVE%20-%20Take%20It.mp3"
+    },
+    {
+      "id": 23,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "4:14",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Yang Da Il - Only You",
+      "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Yang%20Da%20Il%20-%20Only%20You.mp3"
+    },
+    {
+      "id": 24,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "4:19",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Taeyong & Punch - Love del Luna",
+      "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Taeyong%20%26%20Punch%20-%20Love%20del%20Luna.mp3"
+    },
+    {
+      "id": 25,
+      "album": "",
+      "artist": "SECRET NUMBER",
+      "duration": "3:16",
+      "image": "https://www.atkpopnow.com/wp-content/uploads/2020/11/secretnumber_privacy.jpg",
+      "title": "Dangerous In Love",
+      "url": "https://ia801406.us.archive.org/1/items/scrtnmbr/SECRET%20NUMBER%20%28%EC%8B%9C%ED%81%AC%EB%A6%BF%EB%84%98%EB%B2%84%29%20-%20Dangerous%20In%20Love.mp3"
+    },
+    {
+      "id": 26,
+      "album": "",
+      "artist": "SECRET NUMBER",
+      "duration": "3:19",
+      "image": "https://www.atkpopnow.com/wp-content/uploads/2020/11/secretnumber_privacy.jpg",
+      "title": "DOOMCHITA",
+      "url": "https://ia801406.us.archive.org/1/items/scrtnmbr/SECRET%20NUMBER%20-%20DOOMCHITA.mp3"
+    },
+    {
+      "id": 27,
+      "album": "",
+      "artist": "SECRET NUMBER",
+      "duration": "3:21",
+      "image": "https://www.atkpopnow.com/wp-content/uploads/2020/11/secretnumber_privacy.jpg",
+      "title": "Fire Saturday",
+      "url": "https://ia801406.us.archive.org/1/items/scrtnmbr/SECRET%20NUMBER%20-%20Fire%20Saturday.mp3"
+    },
+    {
+      "id": 28,
+      "album": "",
+      "artist": "SECRET NUMBER",
+      "duration": "3:24",
+      "image": "https://www.atkpopnow.com/wp-content/uploads/2020/11/secretnumber_privacy.jpg",
+      "title": "HOLA",
+      "url": "https://ia601406.us.archive.org/1/items/scrtnmbr/SECRET%20NUMBER%20-%20HOLA.mp3"
+    },
+    {
+      "id": 29,
+      "album": "",
+      "artist": "SECRET NUMBER",
+      "duration": "3:05",
+      "image": "https://www.atkpopnow.com/wp-content/uploads/2020/11/secretnumber_privacy.jpg",
+      "title": "Love, Maybe",
+      "url": "https://ia801406.us.archive.org/1/items/scrtnmbr/SECRET%20NUMBER%20-%20Love%2C%20Maybe.mp3"
+    },
+    {
+      "id": 30,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "3:29",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Taeyeon - All About You",
+      "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Taeyeon%20-%20All%20About%20You.mp3"
+    },
+    {
+      "id": 31,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "3:03",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Song Haye - Say Goodbye",
+      "url": "https://ia601508.us.archive.org/11/items/ost-hdl/Song%20Haye%20-%20Say%20Goodbye.mp3"
+    },
+    {
+      "id": 32,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "3:42",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Red Velvet - See The Stars",
+      "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Red%20Velvet%20-%20See%20The%20Stars.mp3"
+    },
+    {
+      "id": 33,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "3:51",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Punch - Done For Me",
+      "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Punch%20-%20Done%20For%20Me.mp3"
+    },
+    {
+      "id": 34,
+      "album": "",
+      "artist": "Hotel Del Luna",
+      "duration": "3:42",
+      "image": "https://upload.wikimedia.org/wikipedia/id/thumb/0/00/Hotel_Del_Luna.jpg/250px-Hotel_Del_Luna.jpg",
+      "title": "Paul Kim - So Long",
+      "url": "https://ia801508.us.archive.org/11/items/ost-hdl/Paul%20Kim%20-%20So%20Long.mp3"
+    }
+  ]
+}

@@ -242,7 +242,7 @@
   
   "DATA": [
   {
-    "id": 1249,
+    "id": 1261,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:07",
@@ -251,7 +251,7 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Pink%20Venom.mp3"
   },
   {
-    "id": 1248,
+    "id": 1260,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
@@ -260,7 +260,7 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
   },
   {
-    "id": 1247,
+    "id": 1259,
     "album": "",
     "artist": "STAYC",
     "duration": "3:00",
@@ -269,7 +269,7 @@
     "url": "https://ia902201.us.archive.org/5/items/sty-c/WE%20NEED%20LOVE/STAYC%20-%20BEAUTIFUL%20MONSTER.mp3"
   },
   {
-    "id": 1246,
+    "id": 1258,
     "album": "",
     "artist": "STAYC",
     "duration": "2:38",
@@ -278,7 +278,7 @@
     "url": "https://ia902201.us.archive.org/5/items/sty-c/WE%20NEED%20LOVE/STAYC%20-%20I%20LIKE%20IT.mp3"
   },
   {
-    "id": 1245,
+    "id": 1257,
     "album": "",
     "artist": "STAYC",
     "duration": "3:10",
@@ -287,13 +287,121 @@
     "url": "https://ia902201.us.archive.org/5/items/sty-c/WE%20NEED%20LOVE/STAYC%20-%20LOVE.mp3"
   },
   {
-    "id": 1244,
+    "id": 1256,
     "album": "",
     "artist": "STAYC",
     "duration": "3:35",
     "image": "https://kpopmembersbio.com/wp-content/uploads/2020/11/STAYC-768x1024.jpg",
     "title": "RUN2U (TAK Remix)",
     "url": "https://ia902201.us.archive.org/5/items/sty-c/WE%20NEED%20LOVE/STAYC%20-%20RUN2U%20%28TAK%20Remix%29.mp3"
+  },
+  {
+    "id": 1255,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:12",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "WHISPER",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20WHISPER.mp3"
+  },
+  {
+    "id": 1254,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:44",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Bump & Love",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20Bump%20%26%20Love.mp3"
+  },
+  {
+    "id": 1253,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "2:52",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "C.O.D.E",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20C.O.D.E.mp3"
+  },
+  {
+    "id": 1252,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:00",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Levitating",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20Levitating.mp3"
+  },
+  {
+    "id": 1251,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:24",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Survive The Night",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20Survive%20The%20Night.mp3"
+  },
+  {
+    "id": 1250,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:09",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "TIMELESS",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20BE%20AWARE/THE%20BOYZ%20-%20TIMELESS.mp3"
+  },
+  {
+    "id": 1249,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:47",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "SHE'S THE BOSS",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20SHE%27S%20THE%20BOSS.mp3"
+  },
+  {
+    "id": 1248,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:45",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Toxic Love",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20Toxic%20Love.mp3"
+  },
+  {
+    "id": 1247,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:28",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Why Why Why",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20Why%20Why%20Why.mp3"
+  },
+  {
+    "id": 1246,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:33",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "Don't Cry",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20Don%27t%20Cry.mp3"
+  },
+  {
+    "id": 1245,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "3:42",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "One Dance",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20One%20Dance.mp3"
+  },
+  {
+    "id": 1244,
+    "album": "",
+    "artist": "THE BOYZ",
+    "duration": "2:43",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/11/The-Boyz-Akan-Merilis-Lagu-Liburan-Untuk-HUT-ke-3.jpeg",
+    "title": "ALWAYS TOGETHER",
+    "url": "https://ia904508.us.archive.org/23/items/theboyz/%5B2022%5D%20SHE%27S%20THE%20BOSS/THE%20BOYZ%20-%20ALWAYS%20TOGETHER.mp3"
   },
   {
     "id": 1243,

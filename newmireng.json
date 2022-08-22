@@ -242,7 +242,7 @@
   
   "DATA": [
   {
-    "id": 1261,
+    "id": 1263,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:07",
@@ -251,13 +251,31 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Pink%20Venom.mp3"
   },
   {
-    "id": 1260,
+    "id": 1262,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
     "image": "https://geo-media.beatsource.com/image_size/1400x1400/1/a/0/1a09b575-4896-46ae-b4fa-ad17d3f5378b.jpg",
     "title": "Ready For Love",
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+  },
+  {
+    "id": 1261,
+    "album": "",
+    "artist": "IVE",
+    "duration": "2:57",
+    "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
+    "title": "After LIKE",
+    "url": "https://ia902202.us.archive.org/23/items/ivekpop/IVE%20-%20After%20LIKE.mp3"
+  },
+  {
+    "id": 1260,
+    "album": "",
+    "artist": "IVE",
+    "duration": "3:13",
+    "image": "https://otakukart.com/wp-content/uploads/2021/11/ive.jpg",
+    "title": "My Satisfaction",
+    "url": "https://ia902202.us.archive.org/23/items/ivekpop/IVE%20-%20My%20Satisfaction.mp3"
   },
   {
     "id": 1259,
@@ -751,7 +769,7 @@
     "artist": "aespa",
     "duration": "3:00",
     "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Aespa_-_Girls.jpg",
-    "title": "Life's Too Short",
+    "title": "Lifes Too Short",
     "url": "https://ia904504.us.archive.org/28/items/espkpop/aespa%20-%20Life%27s%20Too%20Short.mp3"
   },
   {

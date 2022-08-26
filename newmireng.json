@@ -242,7 +242,7 @@
   
   "DATA": [
   {
-    "id": 1263,
+    "id": 1270,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:07",
@@ -251,13 +251,76 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Pink%20Venom.mp3"
   },
   {
-    "id": 1262,
+    "id": 1269,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
     "image": "https://geo-media.beatsource.com/image_size/1400x1400/1/a/0/1a09b575-4896-46ae-b4fa-ad17d3f5378b.jpg",
     "title": "Ready For Love",
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+  },
+  {
+    "id": 1268,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:00",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Talk That Talk",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Talk%20that%20Talk.mp3"
+  },
+  {
+    "id": 1267,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:07",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Queen Of Hearts",
+    "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Queen%20of%20Hearts.mp3"
+  },
+  {
+    "id": 1266,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "2:57",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Basics",
+    "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Basics.mp3"
+  },
+  {
+    "id": 1265,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:35",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Trouble",
+    "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Trouble.mp3"
+  },
+  {
+    "id": 1264,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:10",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Brave",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Brave.mp3"
+  },
+  {
+    "id": 1263,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:15",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "Gone",
+    "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Gone.mp3"
+  },
+  {
+    "id": 1262,
+    "album": "",
+    "artist": "TWICE",
+    "duration": "3:09",
+    "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
+    "title": "When We Were Kids",
+    "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20When%20We%20Were%20Kids.mp3"
   },
   {
     "id": 1261,

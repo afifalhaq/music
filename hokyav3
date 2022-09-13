@@ -1,0 +1,1631 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "native_ads": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "backup_native_ads": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "show_protect": "0",
+      "key_license": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "DATA": [
+  {
+    "id": 178,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:25",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "RUN",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/BTS%20-%20RUN.mp3"
+  },
+  {
+    "id": 177,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:15",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Yet To Come",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/BTS%20-%20Yet%20To%20Come.mp3"
+  },
+  {
+    "id": 176,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:05",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Savage Love",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/BTS%20-%20Savage%20Love.mp3"
+  },
+  {
+    "id": 175,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:09",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Dionysus",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Dionysus.mp3"
+  },
+  {
+    "id": 174,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Jamais Vu",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Jamais%20Vu.mp3"
+  },
+  {
+    "id": 173,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:54",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "HOME",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/HOME.mp3"
+  },
+  {
+    "id": 172,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Make It Right",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Make%20It%20Right.mp3"
+  },
+  {
+    "id": 171,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:44",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Mikrokosmos (소우주)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/소우주%20%28Mikrokosmos%29.mp3"
+  },
+  {
+    "id": 170,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:49",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Boy With Luv (작은 것들을 위한 시)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/작은%20것들을%20위한%20시%20%28Boy%20with%20Luv%29%20feat.%20Halsey.mp3"
+  },
+  {
+    "id": 169,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:51",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Intro: Persona",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/Intro%20_%20Persona.mp3"
+  },
+  {
+    "id": 168,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:05",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Your Eyes Tell",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Your%20eyes%20tell.mp3"
+  },
+  {
+    "id": 167,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:52",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Lights",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Lights.mp3"
+  },
+  {
+    "id": 166,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:08",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "ON (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/ON%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 165,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:18",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Black Swan (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Black%20Swan%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 164,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:03",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Fake Love (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/FAKE%20LOVE%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 163,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:40",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Airplane Pt. 2 (Japanese Version)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Airplane%20pt.2%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 162,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:43",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "IDOL (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/IDOL%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 161,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:08",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Dionysus (Japanese Version)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Dionysus%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 160,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Make It Right (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Make%20It%20Right%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 159,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:50",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Boy With Luv (Japanese Version)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Boy%20With%20Luv%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 158,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:03",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "Stay Gold",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/Stay%20Gold.mp3"
+  },
+  {
+    "id": 157,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:24",
+    "image": "https://wallpapercave.com/wp/wp3762067.jpg",
+    "title": "INTRO : Calling",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%20%253A%207%20~%20THE%20JOURNEY%20~/INTRO%20_%20Calling.mp3"
+  },
+  {
+    "id": 156,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:10",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Permission To Dance",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Permission%20To%20Dance.mp3"
+  },
+  {
+    "id": 155,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Daechwita (대취타)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/Agust%20D/D-2/Agust%20D%20%20-%20Daechwita%20%28대취타%29.mp3"
+  },
+  {
+    "id": 154,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:45",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Butter",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Butter.mp3"
+  },
+  {
+    "id": 153,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:46",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Butter (Cooler Remix)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Butter%20%28Cooler%20Remix%29.mp3"
+  },
+  {
+    "id": 152,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:51",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Butter (Hotter Remix)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Butter%20%28Hotter%20Remix%29.mp3"
+  },
+  {
+    "id": 151,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:46",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Butter (Sweeter Remix)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/BTS%20%28방탄소년단%29%20-%20Butter%20%28Sweeter%20Remix%29.mp3"
+  },
+  {
+    "id": 150,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:34",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Film Out",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/Film%20out.mp3"
+  },
+  {
+    "id": 149,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:30",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Dynamite",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Dynamite.mp3"
+  },
+  {
+    "id": 148,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:15",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Blue & Grey",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Blue%20%26%20Grey.mp3"
+  },
+  {
+    "id": 147,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:02",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Dis-ease (병)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Dis-ease%20%28병%29.mp3"
+  },
+  {
+    "id": 146,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Fly To My Room (내 방을 여행하는 법)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Fly%20To%20My%20Room%20%28내%20방을%20여행하는%20법%29.mp3"
+  },
+  {
+    "id": 145,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:27",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Life Goes On",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Life%20Goes%20On.mp3"
+  },
+  {
+    "id": 144,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:27",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Stay",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Stay.mp3"
+  },
+  {
+    "id": 143,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:25",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Telepathy (잠시)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2020%20BE/BTS%20%28방탄소년단%29%20-%20Telepathy%20%28잠시%29.mp3"
+  },
+  {
+    "id": 142,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Best Of Me (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Best%20Of%20Me%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 141,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:35",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Blood Sweat & Tears (血、汗、淚) (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Blood%20Sweat%20%26%20Tears%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 140,
+    "album": "",
+    "artist": "BTS",
+    "duration": "5:23",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Crystal Snow",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Crystal%20Snow.mp3"
+  },
+  {
+    "id": 139,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:43",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "DNA (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/DNA%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 138,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:57",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Go Go (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Go%20Go%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 137,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:25",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Intro: Ringwanderung",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/INTRO%20_%20Ringwanderung.mp3"
+  },
+  {
+    "id": 136,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:49",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Let Go",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Let%20Go.mp3"
+  },
+  {
+    "id": 135,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "MIC Drop (Japanese Version)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/MIC%20Drop%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 134,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Not Today (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Not%20Today%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 133,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:14",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Outro: Crack",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/OUTRO%20_%20Crack.mp3"
+  },
+  {
+    "id": 132,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:35",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Spring Day (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Spring%20Day%20%28Japanese%20Version%29.mp3"
+  },
+  {
+    "id": 131,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Don't Leave Me",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Face%20Yourself/Don%27t%20Leave%20Me.mp3"
+  },
+  {
+    "id": 130,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:52",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "I Like It",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2013%202%20Cool%204%20Skool/BTS%20%28방탄소년단%29%20-%20I%20Like%20It%20%28좋아요%29.mp3"
+  },
+  {
+    "id": 129,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:42",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "No More Dream",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%202%20Cool%204%20Skool/BTS%20%28방탄소년단%29%20-%20NO%20MORE%20DREAM.mp3"
+  },
+  {
+    "id": 128,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Path (길; Gil)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%202%20Cool%204%20Skool/BTS%20%28방탄소년단%29%20-%20Path%20%28길%3B%20Gil%29.mp3"
+  },
+  {
+    "id": 127,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:43",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "We Are Bulletproof Pt. 2",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2013%202%20Cool%204%20Skool/BTS%20%28방탄소년단%29%20-%20WE%20ARE%20BULLETPROOF%20PT.%202.mp3"
+  },
+  {
+    "id": 126,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:08",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Attack On Bangtan (진격의 방탄)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20Attack%20On%20Bangtan.mp3"
+  },
+  {
+    "id": 125,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:10",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "BTS Cypher Pt. 1",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20BTS%20Cypher%20Pt.1.mp3"
+  },
+  {
+    "id": 124,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:21",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Coffee",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20Coffee.mp3"
+  },
+  {
+    "id": 123,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:09",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "If I Ruled The World",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20If%20I%20Ruled%20the%20World.mp3"
+  },
+  {
+    "id": 122,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:28",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Outro: Luv In Skool",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20Luv%20In%20Skool.mp3"
+  },
+  {
+    "id": 121,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:25",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "N.O",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20N.O.mp3"
+  },
+  {
+    "id": 120,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:24",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Satoori Rap (팔도강산)",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20Satoori%20Rap.mp3"
+  },
+  {
+    "id": 119,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:50",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "We On",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2013%20O%21RUL82/BTS%20%28방탄소년단%29%20-%20We%20On.mp3"
+  },
+  {
+    "id": 118,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:51",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Intro: Persona",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Intro%20_%20Persona%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 117,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:50",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Boy With Luv (작은 것들을 위한 시)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20작은%20것들을%20위한%20시%20%28Boy%20With%20Luv%29%20%28Feat.%20Halsey%29%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 116,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Make It Right",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Make%20It%20Right%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 115,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:44",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Mikrokosmos (소우주)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2019%20MAP%20OF%20THE%20SOUL%20%253A%20PERSONA/소우주%20%28Mikrokosmos%29.mp3"
+  },
+  {
+    "id": 114,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Jamais Vu",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Jamais%20Vu%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 113,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:09",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Dionysus",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Dionysus%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 112,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:19",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Interlude: Shadow",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Interlude%20_%20Shadow%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 111,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:18",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Black Swan",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Black%20Swan%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 110,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:00",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Filter",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Filter%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 109,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:54",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "My Time (시차)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20My%20Time%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 108,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:37",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Louder Than Bombs",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Louder%20than%20bombs%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 107,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:07",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "ON",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20ON%20%28Feat.%20Sia%29%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 106,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:45",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "UGH! (욱)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20욱%20%28UGH%21%29%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 105,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:10",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "00:00 (Zero O'Clock)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%2000_00%20%28Zero%20O’Clock%29%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 104,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Inner Child",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Inner%20Child%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 103,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:19",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Friends (친구)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20친구%20%28Friends%29%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 102,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:29",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Moon",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Moon%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 101,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Respect",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Respect%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 100,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:21",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "We Are Bulletproof : The Eternal",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20We%20are%20Bulletproof%20_%20the%20Eternal%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 99,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:15",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "Outro: Ego",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20Outro%20_%20Ego%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 98,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:05",
+    "image": "https://pm1.narvii.com/6464/7b10090f2019a072b746caa9ffefcbd30caa974a_hq.jpg",
+    "title": "ON (Remix)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2020%20MAP%20OF%20THE%20SOUL%207/BTS%20%28방탄소년단%29%20-%20ON%20%5BMP3%20Audio%5D%20%5BMAP%20OF%20THE%20SOUL%20_%207%5D.mp3"
+  },
+  {
+    "id": 97,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:48",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Euphoria",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Euphoria.mp3"
+  },
+  {
+    "id": 96,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Trivia 起: Just Dance",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Trivia%20起%20_%20Just%20Dance.mp3"
+  },
+  {
+    "id": 95,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:35",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Serendipity (Full Length Edition)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Serendipity%20%28Full%20Length%20Edition%29.mp3"
+  },
+  {
+    "id": 94,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:42",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "DNA",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/DNA.mp3"
+  },
+  {
+    "id": 93,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:15",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Dimple (보조개)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Dimple.mp3"
+  },
+  {
+    "id": 92,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Trivia 承: Love",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Trivia%20承%20_%20Love.mp3"
+  },
+  {
+    "id": 91,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:48",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Her",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Her.mp3"
+  },
+  {
+    "id": 90,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:17",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Singularity",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Singularity.mp3"
+  },
+  {
+    "id": 89,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:02",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Fake Love",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/FAKE%20LOVE.mp3"
+  },
+  {
+    "id": 88,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:02",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "The Truth Untold (전하지 못한 진심; Jeonhaji Motan Jinsim)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/The%20Truth%20Untold%20%28Feat.%20Steve%20Aoki%29.mp3"
+  },
+  {
+    "id": 87,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:05",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Trivia 轉: Seesaw",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Trivia%20轉%20_%20Seesaw.mp3"
+  },
+  {
+    "id": 86,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:45",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Tear",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Tear.mp3"
+  },
+  {
+    "id": 85,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:00",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Epiphany",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Epiphany.mp3"
+  },
+  {
+    "id": 84,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:00",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "I'm Fine",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/I%27m%20Fine.mp3"
+  },
+  {
+    "id": 83,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:42",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "IDOL",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/IDOL.mp3"
+  },
+  {
+    "id": 82,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:11",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Answer: Love Myself",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Answer%20_%20Love%20Myself.mp3"
+  },
+  {
+    "id": 81,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:35",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Magic Shop",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Magic%20Shop.mp3"
+  },
+  {
+    "id": 80,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:47",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Best Of Me",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Best%20Of%20Me.mp3"
+  },
+  {
+    "id": 79,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:38",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Airplane Pt. 2",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Airplane%20pt.2.mp3"
+  },
+  {
+    "id": 78,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:55",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "고민보다 Go (Go, Go)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Go%20Go.mp3"
+  },
+  {
+    "id": 77,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Anpanman",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/Anpanman.mp3"
+  },
+  {
+    "id": 76,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "MIC Drop",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/MIC%20Drop.mp3"
+  },
+  {
+    "id": 75,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:07",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "DNA (Pedal 2 LA Mix)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/DNA%20%28Pedal%202%20LA%20Mix%29.mp3"
+  },
+  {
+    "id": 74,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "Fake Love (Rocking Vibe Mix)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/FAKE%20LOVE%20%28Rocking%20Vibe%20Mix%29.mp3"
+  },
+  {
+    "id": 73,
+    "album": "",
+    "artist": "BTS",
+    "duration": "5:07",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "MIC Drop (Steve Aoki Remix) (Full Length Edition)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/MIC%20Drop%20%28Steve%20Aoki%20Remix%29%20%28Full%20Length%20Edition%29.mp3"
+  },
+  {
+    "id": 72,
+    "album": "",
+    "artist": "BTS",
+    "duration": "5:09",
+    "image": "https://pm1.narvii.com/6505/528c3451e57fae0739bdbdf04e737efe1e9662ef_hq.jpg",
+    "title": "IDOL (Remix)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2018%20Love%20Yourself%20結%20%27Answer%27/IDOL%20%28feat.%20Nicki%20Minaj%29.mp3"
+  },
+  {
+    "id": 71,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:35",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Stigma",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Stigma.mp3"
+  },
+  {
+    "id": 70,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:34",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Spring Day (봄날)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Spring%20Day%20%28봄날%29.mp3"
+  },
+  {
+    "id": 69,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Reflection",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Reflection.mp3"
+  },
+  {
+    "id": 68,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:51",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Not Today",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Not%20Today.mp3"
+  },
+  {
+    "id": 67,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:32",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Mama",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/MAMA.mp3"
+  },
+  {
+    "id": 66,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:01",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Lost",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Lost.mp3"
+  },
+  {
+    "id": 65,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:35",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Lie",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Lie.mp3"
+  },
+  {
+    "id": 64,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:01",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Intro: Boy Meets Evil",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Intro%20_%20Boy%20Meets%20Evil.mp3"
+  },
+  {
+    "id": 63,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:24",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Interlude: Wings",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Interlude%20_%20Wings.mp3"
+  },
+  {
+    "id": 62,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:09",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "First Love",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/First%20Love.mp3"
+  },
+  {
+    "id": 61,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:54",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "BTS Cypher 4",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/BTS%20Cypher%204.mp3"
+  },
+  {
+    "id": 60,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:37",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Blood Sweat & Tears (피 땀 눈물)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Blood%20Sweat%20%26%20Tears.mp3"
+  },
+  {
+    "id": 59,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:49",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Begin",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Begin.mp3"
+  },
+  {
+    "id": 58,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:45",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Awake",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Awake.mp3"
+  },
+  {
+    "id": 57,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:33",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Am I Wrong",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/Am%20I%20Wrong.mp3"
+  },
+  {
+    "id": 56,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:55",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "A Supplementary Story: You Never Walk Alone",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/A%20Supplementary%20Story%20You%20Never%20Walk%20Alone.mp3"
+  },
+  {
+    "id": 55,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:42",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "21st Century Girls (21세기 소녀)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/21st%20Century%20Girl.mp3"
+  },
+  {
+    "id": 54,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:32",
+    "image": "https://i.pinimg.com/originals/df/6b/59/df6b599d885c509997275dd6e236b883.jpg",
+    "title": "Two! Three! (Still Wishing There Will Be Better Days)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2016%20Wings/2%21%203%21.mp3"
+  },
+  {
+    "id": 53,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:00",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Where Did You Come From? (어디에서 왔는지)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20–%20Where%20did%20you%20come%20from%20%28어디에서%20왔는지%29.mp3"
+  },
+  {
+    "id": 52,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:50",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Boy In Luv (상남자)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Boy%20In%20Luv%20%28상남자%29.mp3"
+  },
+  {
+    "id": 51,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:48",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "BTS Cypher Pt. 2: Triptych",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20BTS%20Cypher%20Pt.%202%20Triptych.mp3"
+  },
+  {
+    "id": 50,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:52",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "I Like It (Slow Jam Remix) (좋아요)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20I%20Like%20It%20%28Slow%20Jam%20Remix%29%20%28좋아요%29.mp3"
+  },
+  {
+    "id": 49,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:55",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Jump",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Jump.mp3"
+  },
+  {
+    "id": 48,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:02",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Miss Right",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Miss%20Right.mp3"
+  },
+  {
+    "id": 47,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:55",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Outro: Propose",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Propose.mp3"
+  },
+  {
+    "id": 46,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Spine Breaker (등골브레이커)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Spine%20Breaker%20%28등골브레이커%29.mp3"
+  },
+  {
+    "id": 45,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:22",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Tomorrow",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20-%20Tomorrow.mp3"
+  },
+  {
+    "id": 44,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:59",
+    "image": "https://i.pinimg.com/originals/82/60/79/826079aa1ecf4ae33439bc78779f94e5.png",
+    "title": "Just One Day (하루만)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Skool%20Luv%20Affair/BTS%20%28방탄소년단%29%20–%20Just%20One%20Day%20%28하루만%29.mp3"
+  },
+  {
+    "id": 43,
+    "album": "",
+    "artist": "BTS",
+    "duration": "5:45",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Wake Up",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Wake%20Up%20%28Audio%29.mp3"
+  },
+  {
+    "id": 42,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:17",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "The Stars",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20The%20Stars%20%28Audio%29.mp3"
+  },
+  {
+    "id": 41,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:37",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Outro",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Outro%20%28Audio%29.mp3"
+  },
+  {
+    "id": 40,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:48",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "No More Dream (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20No%20More%20Dream%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 39,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:25",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "N.O (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20N.O%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 38,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:00",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Just One Day (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Just%20One%20Day%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 37,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:57",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Jump (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Jump%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 36,
+    "album": "",
+    "artist": "BTS",
+    "duration": "1:15",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Intro",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Intro%20%28Audio%29.mp3"
+  },
+  {
+    "id": 35,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "I Like It Pt. 2 ~In That Place~",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20I%20Like%20It%21%20Pt.%202%20-%20In%20That%20Place%20%28Audio%29.mp3"
+  },
+  {
+    "id": 34,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:51",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "I Like It (いいね!)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20I%20Like%20It%21%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 33,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:08",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Danger (Japanese Version)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Danger%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 32,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:55",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Boy In Luv (Japanese Version)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/BTS%20-%20Boy%20in%20Luv%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 31,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:08",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BTS_at_the_31st_Golden_Disk_Awards.jpg/1200px-BTS_at_the_31st_Golden_Disk_Awards.jpg",
+    "title": "Attack Of Bangtan (進撃の防弾)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Wake%20Up/Bts%20-%20Attack%20on%20Bangtan%20The%20Rise%20of%20Bangtan%20%28Japanese%20Ver.%29%20%28Audio%29.mp3"
+  },
+  {
+    "id": 30,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:05",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Danger",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Danger.mp3"
+  },
+  {
+    "id": 29,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:17",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Hip Hop Lover (힙합성애자)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Hip%20Hop%20Lover%20%28힙합성애자%29.mp3"
+  },
+  {
+    "id": 28,
+    "album": "",
+    "artist": "BTS",
+    "duration": "0:41",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Interlude: What Are You Doing?",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Interlude%20_%20뭐해.mp3"
+  },
+  {
+    "id": 27,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:45",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "What Am I To You",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Intro%20_%20What%20Am%20I%20To%20You.mp3"
+  },
+  {
+    "id": 26,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:15",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Let Me Know",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Let%20Me%20Know.mp3"
+  },
+  {
+    "id": 25,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:38",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Look Here (여기 봐)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Look%20Here%20%28여기%20봐%29.mp3"
+  },
+  {
+    "id": 24,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:52",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Does That Make Sense? (Outro)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Outro%20_%20그게%20말이%20돼_.mp3"
+  },
+  {
+    "id": 23,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:24",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Rain",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Rain.mp3"
+  },
+  {
+    "id": 22,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:25",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "War Of Hormone (호르몬 전쟁)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/War%20Of%20Hormone%20%28호르몬%20전쟁%29.mp3"
+  },
+  {
+    "id": 21,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:55",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "2nd Grade (2학년)",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/2nd%20Grade%20%282학년%29.mp3"
+  },
+  {
+    "id": 20,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:01",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Blanket Kick (이불킥)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Blanket%20Kick%20%28이불킥%29.mp3"
+  },
+  {
+    "id": 19,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:27",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "BTS Cypher Pt. 3: Killer",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/BTS%20Cypher%20PT.3%20_%20KILLER%20%28Feat.%20Supreme%20Boi%29.mp3"
+  },
+  {
+    "id": 18,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:54",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "Can You Turn Off Your Cellphone?",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/Can%20You%20Turn%20Off%20Your%20Cellphone%20%28핸드폰%20좀%20꺼줄래%29.mp3"
+  },
+  {
+    "id": 17,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:45",
+    "image": "https://i.pinimg.com/736x/07/40/56/074056d03dfe179a7004c8d39c7f7729.jpg",
+    "title": "24/7=Heaven",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2014%20Dark%20%26%20Wild/24-7%3DHeaven.mp3"
+  },
+  {
+    "id": 16,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:02",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Dope (쩔어)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/BTS%20%28%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29%20-%20Dope%20%28%EC%A9%94%EC%96%B4%29.mp3"
+  },
+  {
+    "id": 15,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:30",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "I Need U",
+    "url": "https://ia601401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/BTS%20%28%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29%20-%20I%20Need%20You.mp3"
+  },
+  {
+    "id": 14,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:30",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Converse High",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Converse%20High.mp3"
+  },
+  {
+    "id": 13,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:04",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Fun Boys (흥탄소년단)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Fun%20Boys%20%28%ED%9D%A5%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%29.mp3"
+  },
+  {
+    "id": 12,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:03",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Intro: The Most Beautiful Moment In Life (화양연화)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Intro%20_%20%ED%99%94%EC%96%91%EC%97%B0%ED%99%94.mp3"
+  },
+  {
+    "id": 11,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:52",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Move (이사)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Move%20%28%EC%9D%B4%EC%82%AC%29.mp3"
+  },
+  {
+    "id": 10,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:23",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Outro: Love Is Not Over",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/Outro%20_%20Love%20is%20Not%20Over.mp3"
+  },
+  {
+    "id": 9,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:35",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Hold Me Tight (잡아줘)",
+    "url": "https://ia801401.us.archive.org/26/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%201/%EC%9E%A1%EC%95%84%EC%A4%98%20%28Hold%20Me%20Tight%29.mp3"
+  },
+  {
+    "id": 8,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:57",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Run",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/BTS%20%28방탄소년단%29%20-%20Run.mp3"
+  },
+  {
+    "id": 7,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:27",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Dead Leaves (고엽)",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Dead%20Leaves%20%28고엽%29.mp3"
+  },
+  {
+    "id": 6,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:15",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Ma City",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Ma%20City.mp3"
+  },
+  {
+    "id": 5,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:57",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Outro: House Of Cards",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/OUTRO%20_%20House%20Of%20Cards.mp3"
+  },
+  {
+    "id": 4,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:53",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Silver Spoon (뱁새",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Silver%20Spoon%20%28뱁새%29.mp3"
+  },
+  {
+    "id": 3,
+    "album": "",
+    "artist": "BTS",
+    "duration": "4:03",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Whalien 52",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/Whalien%2052.mp3"
+  },
+  {
+    "id": 2,
+    "album": "",
+    "artist": "BTS",
+    "duration": "3:58",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Butterfly",
+    "url": "https://ia804506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/BTS%20%28방탄소년단%29%20-%20Butterfly.mp3"
+  },
+  {
+    "id": 1,
+    "album": "",
+    "artist": "BTS",
+    "duration": "2:15",
+    "image": "https://todaykpop.com/wp-content/uploads/2020/07/IDOL-BTS-Menjadi-MV-Ke-4-Mereka-Untuk-Mencapai-700-Juta.jpeg",
+    "title": "Intro: Never Mind",
+    "url": "https://ia904506.us.archive.org/0/items/btsfullalbum/2015%20The%20Most%20Beautiful%20Moment%20In%20Life%2C%20Part%202/INTRO%20_%20Never%20Mind.mp3"
+  }
+]
+}

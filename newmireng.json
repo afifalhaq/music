@@ -242,7 +242,7 @@
   
   "DATA": [
   {
-    "id": 1270,
+    "id": 1280,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:07",
@@ -251,7 +251,7 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Pink%20Venom.mp3"
   },
   {
-    "id": 1269,
+    "id": 1279,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
@@ -260,7 +260,16 @@
     "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
   },
   {
-    "id": 1268,
+    "id": 1278,
+    "album": "",
+    "artist": "NCT 127",
+    "duration": "3:51",
+    "image": "http://pm1.narvii.com/7476/8aff18a7fd32b91356165524f0faf55941fd65e2r1-1264-1356v2_uhq.jpg",
+    "title": "2 Baddies",
+    "url": "https://ia902306.us.archive.org/12/items/nctfull/%5B2022%5D%202%20Baddies/NCT%20127%20-%202%20Baddies.mp3"
+  },
+  {
+    "id": 1277,
     "album": "",
     "artist": "TWICE",
     "duration": "3:00",
@@ -269,7 +278,7 @@
     "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Talk%20that%20Talk.mp3"
   },
   {
-    "id": 1267,
+    "id": 1276,
     "album": "",
     "artist": "TWICE",
     "duration": "3:07",
@@ -278,7 +287,7 @@
     "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Queen%20of%20Hearts.mp3"
   },
   {
-    "id": 1266,
+    "id": 1275,
     "album": "",
     "artist": "TWICE",
     "duration": "2:57",
@@ -287,7 +296,7 @@
     "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Basics.mp3"
   },
   {
-    "id": 1265,
+    "id": 1274,
     "album": "",
     "artist": "TWICE",
     "duration": "3:35",
@@ -296,7 +305,7 @@
     "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Trouble.mp3"
   },
   {
-    "id": 1264,
+    "id": 1273,
     "album": "",
     "artist": "TWICE",
     "duration": "3:10",
@@ -305,7 +314,7 @@
     "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Brave.mp3"
   },
   {
-    "id": 1263,
+    "id": 1272,
     "album": "",
     "artist": "TWICE",
     "duration": "3:15",
@@ -314,13 +323,94 @@
     "url": "https://ia904503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20Gone.mp3"
   },
   {
-    "id": 1262,
+    "id": 1271,
     "album": "",
     "artist": "TWICE",
     "duration": "3:09",
     "image": "https://pm1.narvii.com/6621/75bd942c180e6372987cb3270fa3fbcbae667810_hq.jpg",
     "title": "When We Were Kids",
     "url": "https://ia804503.us.archive.org/8/items/twcekpop/%5B2022%5D%20Between%201%262/TWICE%20-%20When%20We%20Were%20Kids.mp3"
+  },
+  {
+    "id": 1270,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:21",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222457",
+    "title": "Real Love",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Real%20Love.mp3"
+  },
+  {
+    "id": 1269,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:28",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222458",
+    "title": "Drip",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Drip.mp3"
+  },
+  {
+    "id": 1268,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:32",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222459",
+    "title": "Eden",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Eden.mp3"
+  },
+  {
+    "id": 1267,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "2:32",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222460",
+    "title": "Replay",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Replay.mp3"
+  },
+  {
+    "id": 1266,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "2:34",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222461",
+    "title": "Parachute",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Parachute.mp3"
+  },
+  {
+    "id": 1265,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:08",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222462",
+    "title": "Kiss & Fix",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Kiss%20%26%20Fix.mp3"
+  },
+  {
+    "id": 1264,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:16",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222463",
+    "title": "Blink",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Blink.mp3"
+  },
+  {
+    "id": 1263,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:59",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222464",
+    "title": "Dear Rose",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Dear%20Rose.mp3"
+  },
+  {
+    "id": 1262,
+    "album": "",
+    "artist": "Oh My Girl",
+    "duration": "3:40",
+    "image": "https://vignette.wikia.nocookie.net/kpop/images/f/f6/OH_MY_GIRL_Nonstop_Lemonade_Tear_Rain_digital_cover_(revised).png/revision/latest?cb=20200830222465",
+    "title": "Sailing Heart",
+    "url": "https://ia903009.us.archive.org/15/items/Oemge/%5B2022%5D%20Real%20Love/Oh%20My%20Girl%20-%20Sailing%20Heart.mp3"
   },
   {
     "id": 1261,

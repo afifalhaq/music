@@ -242,22 +242,76 @@
   
   "DATA": [
   {
-    "id": 1280,
+    "id": 1286,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:07",
     "image": "https://cdn.kgasa.com/wp-content/uploads/2022/08/Pink-Venom.jpg",
     "title": "Pink Venom",
-    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Pink%20Venom.mp3"
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Pink%20Venom.mp3"
   },
   {
-    "id": 1279,
+    "id": 1285,
     "album": "",
     "artist": "BLACKPINK",
     "duration": "3:05",
     "image": "https://geo-media.beatsource.com/image_size/1400x1400/1/a/0/1a09b575-4896-46ae-b4fa-ad17d3f5378b.jpg",
     "title": "Ready For Love",
-    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Ready%20For%20Love.mp3"
+  },
+  {
+    "id": 1284,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "2:55",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "Shut Down",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Shut%20Down.mp3"
+  },
+  {
+    "id": 1283,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "2:59",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "Typa Girl",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Typa%20Girl.mp3"
+  },
+  {
+    "id": 1282,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "2:59",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "Yeah Yeah Yeah",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Yeah%20Yeah%20Yeah.mp3"
+  },
+  {
+    "id": 1281,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "2:42",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "Hard To Love",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Hard%20to%20Love.mp3"
+  },
+  {
+    "id": 1280,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "3:42",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "The Happiest Girl",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20The%20Happiest%20Girl.mp3"
+  },
+  {
+    "id": 1279,
+    "album": "",
+    "artist": "BLACKPINK",
+    "duration": "3:04",
+    "image": "https://discover.ticketmaster.co.uk/wp-content/uploads/2022/09/blackpink-1-1024x576.jpg",
+    "title": "Tally",
+    "url": "https://ia902304.us.archive.org/35/items/blckpnkalbm/2022%20BORN%20PINK/BLACKPINK%20-%20Tally.mp3"
   },
   {
     "id": 1278,

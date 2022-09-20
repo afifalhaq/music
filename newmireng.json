@@ -175,6 +175,10 @@
     "logo": "https://www.generasia.com/w/images/thumb/f/fc/NiziU_-_Make_you_happy_promo.jpg/500px-NiziU_-_Make_you_happy_promo.jpg"
   },
   {
+    "artis": "NMIXX",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/b5/a2/9bb5a2fe-38ba-e4bf-007f-b5cb01953cfe/NMIXX_1st_Sinle_AD_MARE_Online_Cover.jpg/800x800bb.jpg"
+  },
+  {
     "artis": "NU'EST",
     "logo": "https://s3.amazonaws.com/bit-photos/large/210961.jpeg"
   },
@@ -241,6 +245,24 @@
 ],
   
   "DATA": [
+  {
+    "id": 1288,
+    "album": "",
+    "artist": "NMIXX",
+    "duration": "2:46",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/b5/a2/9bb5a2fe-38ba-e4bf-007f-b5cb01953cfe/NMIXX_1st_Sinle_AD_MARE_Online_Cover.jpg/800x800bb.jpg",
+    "title": "DICE",
+    "url": "https://ia601409.us.archive.org/26/items/nmixx/NMIXX%20-%20DICE.mp3"
+  },
+  {
+    "id": 1287,
+    "album": "",
+    "artist": "NMIXX",
+    "duration": "2:50",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/b5/a2/9bb5a2fe-38ba-e4bf-007f-b5cb01953cfe/NMIXX_1st_Sinle_AD_MARE_Online_Cover.jpg/800x800bb.jpg",
+    "title": "COOL (Your rainbow)",
+    "url": "https://ia601409.us.archive.org/26/items/nmixx/NMIXX%20-%20COOL%20%28Your%20rainbow%29.mp3"
+  },
   {
     "id": 1286,
     "album": "",
